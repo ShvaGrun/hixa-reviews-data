@@ -1,0 +1,70 @@
+{
+  "updatedAt": "2026-10-12T14:20:44.479Z",
+  "averageRating": 5,
+  "totalReviews": 5,
+  "mapsUri": "https://maps.google.com/maps?cid=251168284149824909",
+  "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJCcWe5Oy1lUcRjT2YQzlUfAM",
+  "placeId": "ChIJCcWe5Oy1lUcRjT2YQzlUfAM",
+  "items": [
+    {
+      "id": "AbFvOqngJIIq5GkUTHfTwSnfDYfFS7JmI7o3orfgBMCj3Md1aESrVFHumAuRi0noEz7R_yKnq3sR",
+      "rating": 5,
+      "feedbackText": "Ich musste mein Auto ungeplant vorbeibringen, weil der Fehlercode plötzlich leuchtete. Die Jungs haben trotz vollem Terminkalender noch ein Plätzchen gefunden. Dass man bei Notfällen so flexibel reagiert, rechne ich dem Team hoch an. So rettet man sich als Werkstatt Kunden auf Lebenszeit👍",
+      "origText": "",
+      "name": "khoa tran",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIeI4GAgioNnXbqlm5LfoAYhcB8eWpV-r3dYj3qJW9dkNnYaQ=s120-c-rp-mo-br100",
+      "date": "2026-07-23T09:59:02.246034Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Saarbrücken"
+    },
+    {
+      "id": "AbFvOqlnSvXjrdIkpqEVvFp-XVFLJYOA3_g9OW9ZBizGasSK0IZglbamHthPYDc1-1efHMWOUxlN",
+      "rating": 5,
+      "feedbackText": "Ich habe das Auto kurzfristig vor einer langen Fahrt in den Urlaub vorbeigebracht, weil das DSG beim Anfahren an der Ampel ab und zu kurz gezuckt hat. Eigentlich hatte ich Panik, dass ich das Auto tagelang abgeben muss, aber die haben das sofort zwischengeschoben. Die Diagnose war schnell da und ich konnte beruhigt in den Urlaub fahren!",
+      "origText": "",
+      "name": "Thomas König",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVd--MXYNBjAp-QkCk3M5FZxVCf7Zqp5WX9VWyCMibliQqC0DQ=s120-c-rp-mo-br100",
+      "date": "2026-07-21T10:49:22.230234Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Saarbrücken"
+    },
+    {
+      "id": "AbFvOqk-suQgX7-o6jvU1vgHSVb2tPfZLG2wsNb597M1ApM__lnrfgluiR3x7WIs5c90hHuJkhVV",
+      "rating": 5,
+      "feedbackText": "Gute Beratung und saubere Arbeit. Ksenia hat den gesamten Ablauf koordiniert, als mein Ford Probleme mit dem Powershift-Getriebe hatte. Es wurde nicht einfach nur blind getauscht, sondern gezielt repariert. Kann ich nur weiterempfehlen.",
+      "origText": "",
+      "name": "Sven Haze",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV85r-K_aDoensTUCwB0O5GKRuatxIKai0xv8S-pKEoCjBp0Y4=s120-c-rp-mo-br100",
+      "date": "2026-07-09T12:24:33.180159Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Saarbrücken"
+    },
+    {
+      "id": "AbFvOqnQNODBUl42-JKt_u84NGVX9UXUgKpE00cC4wR3Lt1Glr8FG5UGJOWOxQrzckZDAOi0SlRG",
+      "rating": 5,
+      "feedbackText": "Super Werkstatt! Die Online-Programmierung der Mechatronik für meinen Getriebetyp wurde schnell und unkompliziert erledigt. Keine Fehlercodes mehr vorhanden. Vielen Dank für die Hilfe!",
+      "origText": "",
+      "name": "Quade",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocItFvMCvgzhMkmYldxHtnKphJNEcQrexPhjU4UpqtAlRby4cg=s120-c-rp-mo-br100",
+      "date": "2026-06-18T12:30:32.193332Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Saarbrücken"
+    },
+    {
+      "id": "AbFvOqnQ5LByTda4KulBp6T4tUWFaCw2t6Y3rLwgEyjwVEmi1REnXFSEKvGppRXlUA1cmqTm_RVo5g",
+      "rating": 5,
+      "feedbackText": "Sehr kompetenter Ansprechpartner für Automatikgetriebe. Der Fehler wurde zügig lokalisiert. Die mechanische Reparatur wurde fachmännisch durchgeführt. Alles wurde transparent erklärt, sodass man auch als Laie versteht, was gemacht wurde.",
+      "origText": "",
+      "name": "Tobias Pratter",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW7DqaG-CBMf3QVc9DMoVyCfrTGMK3kzNKVk-y0r-p7vMKjU_4=s120-c-rp-mo-ba12-br100",
+      "date": "2026-06-12T14:00:59.675842Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Saarbrücken"
+    }
+  ]
+}

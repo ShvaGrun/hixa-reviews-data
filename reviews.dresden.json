@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-10-12T14:20:42.792Z",
+  "averageRating": 5,
+  "totalReviews": 6,
+  "mapsUri": "https://maps.google.com/maps?cid=7996775195929406131",
+  "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJc4cxZb_PCUcRs-oGBqxA-m4",
+  "placeId": "ChIJc4cxZb_PCUcRs-oGBqxA-m4",
+  "items": [
+    {
+      "id": "AbFvOql-EMQTMO8aGhIui9oogrWgvlQDnyzPCi-FAwuY-Oe7aFAwEUZbruTH8oDDWKCgHE8wXxsLNg",
+      "rating": 5,
+      "feedbackText": "Audi Q5 hat plötzlich Fehler im Getriebe angezeigt. Ich bin direkt zu Hixa gefahren. Andrei hat die Diagnose gemacht und Steuergerät wurde später online programmiert. Danach keine Fehlermeldungen mehr.",
+      "origText": "",
+      "name": "Cane Dory",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXm_FqIKkeKRyAjuScW-qcWPPhEjAXOSnOVcwJpiD_S0hrYVII=s120-c-rp-mo-br100",
+      "date": "2026-07-09T12:53:54.855430Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Dresden"
+    },
+    {
+      "id": "AbFvOqmeAOT968fyg-q1XqrDKGYqsE0Uie0g0XwrANOo6TTEYErS4oFjOXFwF2tIWD6r-n8MoGqU",
+      "rating": 5,
+      "feedbackText": "Ich war ehrlich gesagt ziemlich genervt, weil die Maschine beim Schalten immer stärker geruckelt hat. Hatte schon Angst vor einer richtig teuren Reparatur. Bei Hixa hat Katerina aber erst mal Ruhe reingebracht und alles prüfen lassen. Am Ende war es nur die Mechatronik. Zum Glück.",
+      "origText": "",
+      "name": "Leonardo Mathias",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXRQwc8ezYqgVBuMx_Q-4C2nrV1gkBxuo0ErEOxAZIbl0XCiew=s120-c-rp-mo-br100",
+      "date": "2026-07-07T10:07:04.203401Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Dresden"
+    },
+    {
+      "id": "AbFvOqkFDSjb5Zo7ykIE62A16G1qDtovI6ht-ZD3ICDQ6PgsEbdHEdSXvtoADWYtXZnjZSWaZnT3mw",
+      "rating": 5,
+      "feedbackText": "War ehrlich überrascht, dass man mir nicht sofort eine komplette Getrieberevision aufgedrückt hat. Erst Diagnose, dann Entscheidung. So sollte es überall sein eigentlich.",
+      "origText": "",
+      "name": "El Pepe El Pepe",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWzWzzkCnCGenTq1Ll-SSOUjfBFaffS4SJ41bL-K82VKnEcbQM=s120-c-rp-mo-br100",
+      "date": "2026-07-06T09:00:01.598218Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Dresden"
+    },
+    {
+      "id": "AbFvOqkT1d8cf_0lis1ZbKBs4Qdka1hCRLBQvqn7hVfBx6VhsXZ9YIIUxUbDXuFBvOFhOQIkjvZ45w",
+      "rating": 5,
+      "feedbackText": "Ich hatte vorher ehrlich keine Lust mehr auf Werkstätten. Immer nur „wir müssen alles tauschen“. Hier war es anders, eher sachlich und ohne Druck.",
+      "origText": "",
+      "name": "Kaila Gulleban",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWdXXttSvGyVkwBWCblbzNeOdosgumOIeGQljHYKxtd_Jy1NVe8=s120-c-rp-mo-ba12-br100",
+      "date": "2026-07-05T09:27:43.539828Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Dresden"
+    },
+    {
+      "id": "AbFvOql18hvYgvfn7excw7IbF9jhHV5rqpaV7RuRC8vJd3HAZLCqlMsjEcTnJiYEU-L_XIqg2KudkA",
+      "rating": 5,
+      "feedbackText": "Ich musste mein Auto zwei Tage dort lassen, weil noch Teile bestellt wurden. Wurde aber immer kurz informiert, was passiert. Das fand ich gut.",
+      "origText": "",
+      "name": "Christian Walter",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXLycgTYit-1J8DglU02EQI2hQ160T-nOYlGpzikK3tksWp_b4=s120-c-rp-mo-br100",
+      "date": "2026-06-11T23:00:23.507536Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Dresden"
+    },
+    {
+      "id": "AbFvOqnh1c_ISJg8ClujWAF73ZYn9g5LwtbFkSAFDdCKGIvqdZjTEClEM2tYnwrvquzghGG35UA",
+      "rating": 5,
+      "feedbackText": "Ich hatte vorher schon mit dem Gedanken gespielt, das Auto zu verkaufen, weil die Schaltprobleme immer schlimmer wurden. Katerina meinte erst mal nur: schauen wir uns an, nicht gleich Panik. Am Ende war es reparabel.",
+      "origText": "",
+      "name": "Käthe Wenzel",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIZZFdkpMr4W01TnLDbu1yeDmsvVuS92JjKLnutRYclBW0PRA=s120-c-rp-mo-br100",
+      "date": "2026-06-09T08:15:22.001877Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Dresden"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "updatedAt": "2026-10-12T14:20:40.598Z",
+  "averageRating": 5,
+  "totalReviews": 9,
+  "mapsUri": "https://maps.google.com/maps?cid=10447973864449958727",
+  "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ4dA3vOMnsUcRR-Mavd-o_pA",
+  "placeId": "ChIJ4dA3vOMnsUcRR-Mavd-o_pA",
+  "items": [
+    {
+      "id": "AbFvOqmywd2sAnqq7KRVaeJ0qN-rG9hLFKv0LDn9jn4amVdYrYk1JXJ-Mt5M6AlnDMakeByCgAO9ng",
+      "rating": 5,
+      "feedbackText": "DSG hat beim Rückwärtsfahren leicht „geknallt“. Nach Ölwechsel und Anpassung ist es viel weicher geworden. Andrii hat mir auch gesagt, dass ich es beobachten soll.",
+      "origText": "",
+      "name": "Lucas Pate",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUWl5B2isuIHK5CxCHLIjG3lI3zqL17L9PKXu6QBeWDpUwzHBg=s120-c-rp-mo-br100",
+      "date": "2026-07-09T12:39:09.442206Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Bremen"
+    },
+    {
+      "id": "AbFvOqlbdp3yhFc7I6XaBBVvjbKgGPn1QsRWBnBEy_KYwmWNOq1IH8taT6c5VAYsLc3QijCyHTuy",
+      "rating": 5,
+      "feedbackText": "Seit Monaten hatte ich Probleme mit unruhigen Schaltvorgängen. Mehrere Werkstätten konnten nichts Konkretes finden. Bei Hixa Bremen wurde die Ursache schnell erkannt und das Getriebe repariert. Jetzt fährt sich das Auto wieder so, wie es sollte. Vielen Dank an Maks und das gesamte Team.",
+      "origText": "",
+      "name": "GUILBERT ISAEL BRITO DE LOS SANTOS",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJeRBsBylYWBJQvPiMEK2YHE0yrbmO9qtEq_B2ConKuWkCarA=s120-c-rp-mo-br100",
+      "date": "2026-07-08T09:28:45.218711Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Bremen"
+    },
+    {
+      "id": "AbFvOqnxW6GrRZTWiXMoo5LGskEipFoYZ9_5aRIidmIdpmqLt-Ol70A1xNN2Q0sPn0IDyMMlTA0pDQ",
+      "rating": 5,
+      "feedbackText": "Mercedes hat manchmal beim Runterschalten richtig geruckt. Jetzt ist es viel smoother. Keine Ahnung was genau gemacht wurde, aber funktioniert.",
+      "origText": "",
+      "name": "Pintu Lohar",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKtO-fxPnJ_L54YqMGy8Uik46wZ1xgH6E7SB1rPXgPBI9e67Q=s120-c-rp-mo-br100",
+      "date": "2026-07-07T10:08:38.854735Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Bremen"
+    },
+    {
+      "id": "AbFvOqlbVa9FPbr9YnppySFtfrQnxKGojbdUGpE2l_SoRx9ThhSzss2EERkLT8Pc7LMGb6PObwiI",
+      "rating": 5,
+      "feedbackText": "Die komplette Überholung meines Getriebes war zwar keine kleine Investition, aber sie hat sich gelohnt. Mein Mercedes fährt wieder deutlich ruhiger als zuvor. Alisa hat alle Fragen geduldig beantwortet und mich regelmäßig informiert.",
+      "origText": "",
+      "name": "Theo Graf",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIEo3TjWf-3thSGidAla6S8gD7OFM3cAuUQPOljmCjbKMP3gQ=s120-c-rp-mo-br100",
+      "date": "2026-07-05T09:32:20.040253Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Bremen"
+    },
+    {
+      "id": "AbFvOqlB9weUnTVmuMkUvxjcf_GcQUjrTUrLg8M8QPAh2Vs9yAMlQgjIui4vyDOIQorL7qreqNNM6w",
+      "rating": 5,
+      "feedbackText": "Mein Passat hat beim Schalten richtig hart geruckelt, besonders im Stau war das kaum auszuhalten. Ich dachte ehrlich, das wird richtig teuer. Bei Hixa haben sie zuerst die Mechatronik geprüft und nicht einfach alles getauscht. Läuft jetzt wieder ruhig. Danke an Anna, war alles unkompliziert.",
+      "origText": "",
+      "name": "Chantal Ramirez",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIPT4gLjxPa15VERTPq7yIBt8rdSQWWhklzFRCZPHtFHmMweA=s120-c-rp-mo-br100",
+      "date": "2026-06-19T13:51:32.958921Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Bremen"
+    },
+    {
+      "id": "AbFvOqnZ0BkkH0S-5uIl0sBgMtW-X-p7TD4YqGUUIohkpOr_5E5N698q2ZPdSyWEar5l3tiRNiI9Vg",
+      "rating": 5,
+      "feedbackText": "Keine Ahnung wie die das so schnell gemacht haben, aber morgens hingestellt und am selben Tag wieder gefahren. DSG Problem war weg. Vicky war am Telefon super entspannt, das hat geholfen weil ich ziemlich genervt war.",
+      "origText": "",
+      "name": "valentino arancibia",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKXpQgZHv2Ltsu5LZ-PwnB1KyBikvHd14bcOGCXnQVKi-a5EB4=s120-c-rp-mo-br100",
+      "date": "2026-06-18T12:38:46.358396Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Bremen"
+    },
+    {
+      "id": "AbFvOqnZQFdI6nVKlaCHwUfIe5Q5DtlI279eLUkGM0F8tv3RzgeMLfJ_MVD7hLwPYxsQ0pxkZW2fLw",
+      "rating": 5,
+      "feedbackText": "Ich war auf der Durchreise, als plötzlich eine Getriebestörung auftrat. Hixa Bremen konnte mein Fahrzeug kurzfristig aufnehmen. Die Reparatur der Mechatronik wurde schnell erledigt und ich konnte meine Reise fortsetzen. Danke an Anna für die schnelle Organisation.",
+      "origText": "",
+      "name": "Brigitte Werner",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJffV2ylYNmj4ML8F7QHzGXBFDUkuFgXJNUqC3aFiaTpka1CQ=s120-c-rp-mo-br100",
+      "date": "2026-06-14T15:50:18.897609Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Bremen"
+    },
+    {
+      "id": "AbFvOqmvx74L6b0XWi3VbgHPhfZX56uQjlROgbSUXDWPCDFKSEuqNakBdPjdPfCH29BH3pnNxzrFEw",
+      "rating": 5,
+      "feedbackText": "Ich war nicht mal sicher ob sich das lohnt zu reparieren, aber Katerina meinte einfach ich soll vorbeikommen. Am Ende war die Entscheidung richtig, das Auto fährt wieder sauber.",
+      "origText": "",
+      "name": "Elias Mitterer",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKChoYEFWLoTAtTUc_EO7Lbvdv3NWiejX5e48tssKVKkONUGw=s120-c-rp-mo-br100",
+      "date": "2026-06-12T14:03:17.841717Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Bremen"
+    },
+    {
+      "id": "AbFvOqlSBKaZg-GBKhj9XdeYFm0tz_aFCTP7V_62vw8aLCx_2sQblzctSyPi45uVjGjPOFYxnY22UA",
+      "rating": 5,
+      "feedbackText": "Ich war schon bei zwei anderen Werkstätten, überall hieß es „Getriebe tauschen“. Bei Hixa hat sich rausgestellt, dass nur die Mechatronik kaputt ist. Ehrlich gesagt war ich erleichtert. Ksenia hat mich die ganze Zeit auf dem Laufenden gehalten.",
+      "origText": "",
+      "name": "Katharina Wolf",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK8Z8C09njZG1vxC6BUSTuJMpkz16Gqs4Az0t5Q4BhwgotEdQ=s120-c-rp-mo-br100",
+      "date": "2026-06-10T23:18:20.628540Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Bremen"
+    }
+  ]
+}

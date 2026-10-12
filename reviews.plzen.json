@@ -1,0 +1,142 @@
+{
+  "updatedAt": "2026-10-12T14:20:46.667Z",
+  "averageRating": 5,
+  "totalReviews": 11,
+  "mapsUri": "https://maps.google.com/maps?cid=15976279300667248095",
+  "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJK4dAYibtCkcR342yxGAlt90",
+  "placeId": "ChIJK4dAYibtCkcR342yxGAlt90",
+  "items": [
+    {
+      "id": "AbFvOqn7NwS5LIxQeuKs4uIabHNr2EdA4s4L7mls9iDvLdVKJjbnQ85rVSD-XgOo0dSFtp3qJOXL4A",
+      "rating": 5,
+      "feedbackText": "Převodovka u mého auta začala cukat a při řazení kopala. U Hixa mi udělali kompletní generálku DQ250. Teď řadí mnohem lépe a všechno funguje, jak má.",
+      "origText": "",
+      "name": "Barbora Staněkova",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL1ZW5igP3oD_hjah2MtnYSfkR53-p_sDn6Z0zFvstX47WrDw=s120-c-rp-mo-br100",
+      "date": "2026-09-26T09:55:14.507818Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Plzeň"
+    },
+    {
+      "id": "AbFvOqlsW12jYrIN0OAZaVgIhxbRcp4ihIPcAJsOIj218jATdAlOSxBPFdCL7HGLu5Yz2cYlm84n",
+      "rating": 5,
+      "feedbackText": "Převodovka u mého auta začala cukat a při řazení kopala. U Hixa mi udělali kompletní generálku DQ250. Teď řadí mnohem lépe a všechno funguje, jak má.",
+      "origText": "",
+      "name": "Erick Reyes",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW9_JU0HNVRN7pVBsWu9aqr3AU7yux-mAZ1PfAvbZQ1FxsE0hg=s120-c-rp-mo-br100",
+      "date": "2026-09-25T23:07:32.058086Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Plzeň"
+    },
+    {
+      "id": "AbFvOqn-QS2issg-9UnbGxy8vpz_gZ0XTSE6dMsDM9ErGeDjNhL43kFL1tI_my-HFDiO5a8LbIqjBQ",
+      "rating": 5,
+      "feedbackText": "Super kluci, jejich služby využívám už několik let a vždycky je všechno v pohodě.",
+      "origText": "",
+      "name": "Alexandre Mota",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIjFLTqqaEKSQwT9wxR-AGznVcA2N8KcL1QwSnKVMbJ424suA=s120-c-rp-mo-br100",
+      "date": "2026-09-24T17:00:39.343482Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Plzeň"
+    },
+    {
+      "id": "AbFvOqkmzmZaT-35-UlD3dyACao0_tMNrF6U6G_sDh0KTpQHJg0BNFxmjCZh423XzXJLEzwhTwRq",
+      "rating": 5,
+      "feedbackText": "Jsem z jiného města, takže jsem využil možnost poslat mechatroniku poštou. Překvapilo mě, že výměna a poslání zpět zabraly jen dva dny. Jsem spokojený.",
+      "origText": "",
+      "name": "SIMONE AVITABILE",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXcTfm8gT_OG3LA_Gy30OmYeYHsTBHXTVXTpB-42wzuf1gBcmc=s120-c-rp-mo-br100",
+      "date": "2026-09-23T11:49:43.258047Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Plzeň"
+    },
+    {
+      "id": "AbFvOqkLaNcJKxZbcnoq2DPWe1SPnBV5bocYLHCmSSr67hGq2tUbP-6_cZdBYOw-FYYL0tqT7uK5",
+      "rating": 5,
+      "feedbackText": "Jinde mi tvrdili, že jediným řešením je kompletní výměna převodovky, což by mě vyšlo na opravdu vysokou částku. V tomto servisu však našli skutečnou příčinu závady a zjistili, že problém je pouze v mechatronice. Oprava byla výrazně levnější a vůz od té doby funguje naprosto bez problémů.",
+      "origText": "",
+      "name": "ANGEL DE JESUS SANCHEZ OLVERA",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJJQKwuwI7z4mZv49OZTt42TrDtYMmZBSLPSUWNZ_of4pWSVvU=s120-c-rp-mo-br100",
+      "date": "2026-09-12T14:14:12.191933Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Plzeň"
+    },
+    {
+      "id": "AbFvOqldwUwOixf5uFqUUmYhs05wIw7R_zd-gaDbfFIxrsvttDv_LoWzwl0NBWhsmu512F2N46n5Wg",
+      "rating": 5,
+      "feedbackText": "Měl jsem obavy z online programování po výměně jednotky, ale zvládli to bez problémů.",
+      "origText": "",
+      "name": "Cornelius Frank",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVEBl2TVlbTlRXOkYZ0Xc-64Ifua49LrCXLBhfTNEakzPvNQ0o=s120-c-rp-mo-br100",
+      "date": "2026-09-08T19:49:24.737592Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Plzeň"
+    },
+    {
+      "id": "AbFvOqlRjZgMWbylfosvgV9DKlteHV6ylxnRgwD6iOTpw4VrtpFO0ADJA1jmwwAWUAsRk9ozWlKEbg",
+      "rating": 5,
+      "feedbackText": "Oprava trvala o pár hodin déle, než jsem čekal, ale výsledek to bohatě vynahradil.",
+      "origText": "",
+      "name": "Abuela Lola",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIkO6x-gtluBCrq9Ca9Jc8OBdyyslWEENSSwny_-J70-v4nWg=s120-c-rp-mo-br100",
+      "date": "2026-09-04T18:05:20.361630Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Plzeň"
+    },
+    {
+      "id": "AbFvOqlHhGmvAAG_Uxd-FbKDVsi4vhTa8RU0Y6S0xYG_2q2C7niPWsfV6bgJ6NN1NtZ4IafUaj72",
+      "rating": 5,
+      "feedbackText": "Řešil jsem problém s DSG převodovkou, která stávkovala. Komunikace s manažery proběhla bleskově přes telefon, termín byl hned druhý den. Oprava na místě zabrala minimum času. Velká spokojenost s přístupem.",
+      "origText": "",
+      "name": "Felix Lehmann",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW71U3BJRlu7Fm-KVI926O1eqQS0HpQqlr8jFoDY5IsLGFKgX8=s120-c-rp-mo-br100",
+      "date": "2026-08-24T10:43:21.221038Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Plzeň"
+    },
+    {
+      "id": "AbFvOqmEzGXtpqWbnfUeyO8ADrNyQlhVY86EiwrrTLl5cIXgHPCGejexcK5QAOZAlByVGcyMJPeA6A",
+      "rating": 5,
+      "feedbackText": "Určitě se sem v případě potřeby vrátím. Spolehlivý servis.",
+      "origText": "",
+      "name": "Opal Vincennes",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVmgC7mooP7S4kneNnPGdLs0RxeteU-N3xc4ksc7DwrL08Do9s=s120-c-rp-mo-br100",
+      "date": "2026-08-16T20:42:01.720575Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Plzeň"
+    },
+    {
+      "id": "AbFvOqlQBTgnNJKGe-OLuZvvJ6hoYwUBnurtseGGeAKvI1r50aatgkfh2Fnp6C_Hutob0APDb3t8",
+      "rating": 5,
+      "feedbackText": "Kámoš mi tenhle servis doporučil a udělal dobře. Auto nechtělo jet jinak než na jedničku, totální nouzovka. Naštěstí všechno proběhlo hladce, rychlost zpracování dotazů a celková péče prostě na jedničku s hvězdičkou.",
+      "origText": "",
+      "name": "Isolde O'Hare",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXsvNWjsF33MpSVc4SYJa9mjo6xtxciQDU3GqiRCr5CKuBAamE=s120-c-rp-mo-br100",
+      "date": "2026-08-15T20:55:27.214838Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Plzeň"
+    },
+    {
+      "id": "AbFvOqkCjx4NTDQywD8cl7hJy2iw0XVVVAT5q1oLAuCdmceuTfKPnSwTBL14sZGni0nmyiv68ELXtw",
+      "rating": 5,
+      "feedbackText": "(Přeloženo Googlem) Vynikající společnost, rychlé vyložení 👌\n\n(Původní)\nОтличная фирма, быстрая разгрузка 👌",
+      "origText": "",
+      "name": "Evgenij Pavarha",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUV1HLvdlhcK7Hx0E52xp-wxik4PvUXA8HDdZeKtAsq0KPz_tg=s120-c-rp-mo-br100",
+      "date": "2026-07-15T06:59:46.519787Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Plzeň"
+    }
+  ]
+}

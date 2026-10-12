@@ -1,0 +1,58 @@
+{
+  "updatedAt": "2026-10-12T14:20:43.233Z",
+  "averageRating": 5,
+  "totalReviews": 4,
+  "mapsUri": "https://maps.google.com/maps?cid=3338710374550109669",
+  "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJWRuGZ8_3mkcR5X34emV7VS4",
+  "placeId": "ChIJWRuGZ8_3mkcR5X34emV7VS4",
+  "items": [
+    {
+      "id": "AbFvOqlEwqY5MOe9fBILbC7NfeHnVI4tDT-mJEbJ7gYdfg5UDc__USjne6d0giJQqtfCBtNrsqrm",
+      "rating": 5,
+      "feedbackText": "War erst skeptisch, weil ich nicht wusste, ob sich die Reparatur noch lohnt. War aber am Ende deutlich günstiger als beim Freundlichen. Auto läuft.",
+      "origText": "",
+      "name": "Marco",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVXm4gzZ5BGpJxwM0M8m9K2SupIa4H37Sr0ZtYHXt21NqtSQF4=s120-c-rp-mo-br100",
+      "date": "2026-07-18T10:50:39.197509Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Konstanz"
+    },
+    {
+      "id": "AbFvOqkBpXT4sSVuKqQW2nhVzhT-R9D4kBkftQ9lVtAg1gZhzPu1DNGQn5NNdcBfjx2ne5h0thKIIw",
+      "rating": 5,
+      "feedbackText": "mein getriebe war im notlauf. in einer anderen werkstatt hieß es sofort - austauschgetriebe. hixa hat das problem am mechatronik-block entdeckt und repariert. läuft jetzt seit über einem monat ohne jegliche probleme. danke!",
+      "origText": "",
+      "name": "Marie Schulz",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWs2hYOU_-TVkQkpCs4xiY7SrkEl0Lb8k-iLZECKMWD0g1qWxs=s120-c-rp-mo-br100",
+      "date": "2026-07-16T11:52:57.647693Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Konstanz"
+    },
+    {
+      "id": "AbFvOqlmWXxM-uAHmlv9BGu8gaSapNod5tACnE4LHcP7BOAnEm2htu4I68PFeXbZQ-GPykLTWkA91w",
+      "rating": 5,
+      "feedbackText": "Perfekter Service. Getriebereparatur lief reibungslos ab. Keine versteckten Kosten, Kostenvoranschlag wurde genau eingehalten.",
+      "origText": "",
+      "name": "Faye West",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVjjCo9plncNkzTyQHci4O-JR9th4CMB55Rv2YUM5jur_KXSzk=s120-c-rp-mo-br100",
+      "date": "2026-07-09T12:31:11.931400Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Konstanz"
+    },
+    {
+      "id": "AbFvOqkU3eao4EbJ74Je6hH-FS6QxZ5QbFbcMWrX0cxWOQQ3SVeasD4mnlnMSbm9fcISxxZjcjQEtw",
+      "rating": 5,
+      "feedbackText": "Meine Vertragswerkstatt wollte direkt das ganze Getriebe für ein Vermögen tauschen. Zum Glück bin ich auf diese Werkstatt gestoßen. Katerina hat mich kompetent beraten und es wurde am Ende nur der Austausch der Mechatronik durchgeführt. Das hat mir extrem viel Geld gespart. Das Auto läuft seit Wochen einwandfrei.",
+      "origText": "",
+      "name": "Günter Kremer",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWryuGiGCP8X8esfeg6MC_kJezeGCPkyZ_vM5ojKf-viI4jKY4=s120-c-rp-mo-br100",
+      "date": "2026-06-09T08:19:01.583618Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Konstanz"
+    }
+  ]
+}

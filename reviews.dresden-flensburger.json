@@ -1,0 +1,118 @@
+{
+  "updatedAt": "2026-10-12T14:20:44.947Z",
+  "averageRating": 5,
+  "totalReviews": 9,
+  "mapsUri": "https://maps.google.com/maps?cid=1740571692435114878",
+  "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJFyiKIODRCUcRfguyebvAJxg",
+  "placeId": "ChIJFyiKIODRCUcRfguyebvAJxg",
+  "items": [
+    {
+      "id": "AbFvOqkbLIkuQOMga7VK9-xtnJmUfSo-BgEx_o_pSo_AgRCGLuvCGc39HOUAs1dHF0WEW6frid2PQQ",
+      "rating": 5,
+      "feedbackText": "Ich hatte ein Auto mit Getriebeproblemen, was nicht so einfach zu finden war. Hixa Dresden Flensburger hat sich Zeit genommen und die Ursache in der Mechatronik gefunden. Katerina war sehr hilfsbereit.",
+      "origText": "",
+      "name": "Beau Wild",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX_PlixCa7ZnMqCckXw85XeEswpT9Bbippb03CNNIH5LO7pR5k=s120-c-rp-mo-br100",
+      "date": "2026-07-09T12:41:46.688886Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Dresden"
+    },
+    {
+      "id": "AbFvOqkDmtJ9Uar1UN5Vm77qee7XdiDVax-ieAObsWWnqCrfYOFlU9ltna1SAq2PM-vAcCYgWRkS",
+      "rating": 5,
+      "feedbackText": "Bei meinem Opel Insignia ging plötzlich die Getriebekontrollleuchte an. Hixa hat sofort eine Diagnose gemacht und die Mechatronik als Problem erkannt. Andrei hat die Reparatur begleitet, lief schneller als gedacht.",
+      "origText": "",
+      "name": "Charbel Gemayel",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUH-Pn5y_BNPTYuswDIugNC9OPKROc4yzTWYnB9XAQSGw1A9K3m=s120-c-rp-mo-br100",
+      "date": "2026-07-07T10:08:35.174251Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Dresden"
+    },
+    {
+      "id": "AbFvOqkISXbZ4rdGhZv3EC_9DYm3xOF6ly-wvgekysIytnFwkSWe8zB8cQG-DEZpEmIJpp-8G5VT",
+      "rating": 5,
+      "feedbackText": "Bei Hixa Dresden Flensburger hatte mein Ford Focus Probleme mit dem automatischen Getriebe, besonders beim Anfahren. Ich war ziemlich genervt, weil das Auto im Alltag kaum noch sauber fuhr. Anna hat alles ruhig erklärt und am Ende wurde die Mechatronik repariert statt komplett getauscht. Jetzt läuft er wieder normal.",
+      "origText": "",
+      "name": "BUDI SUSILO (ANISA PRODUCTION)",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVusPCHsaGCy3nz5gKZ1s5zVou1w18SYIoYfoGsyvy5SPEJhNg=s120-c-rp-mo-br100",
+      "date": "2026-07-06T09:02:03.185103Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Dresden"
+    },
+    {
+      "id": "AbFvOqn-50e50mXNO8CN65xkeaxNB0df3OzUyk4xIhD5_-qFKey7UcJsAxmsbo4BmejQ3skmK5ViGg",
+      "rating": 5,
+      "feedbackText": "Mein VW hatte starke Verzögerungen beim Schalten im Stadtverkehr. Bei Hixa wurde das Getriebe geprüft und die Ursache schnell gefunden. Tihran hat mir danach kurz erklärt, was gemacht wurde. Fährt wieder ohne Probleme.",
+      "origText": "",
+      "name": "kauan gomes",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLAXvaBkUKHLjExyBDOkwYDGpJQjw-9yMTdEhTdbun_VUEodw=s120-c-rp-mo-br100",
+      "date": "2026-07-05T09:30:29.975703Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Dresden"
+    },
+    {
+      "id": "AbFvOqkFA6LkpnnuYqzHsME4I-GDJbaK_KHqr-bKs2l-PtF1_Zm76M6OYUr7u6WTRljohumtmX9J",
+      "rating": 5,
+      "feedbackText": "Audi A4, Notlauf mitten auf der Autobahn. Klassiker wahrscheinlich. Hixa hat sofort gesagt was Sache ist, Mechatronik raus, repariert. Ich war froh überhaupt weiterfahren zu können.",
+      "origText": "",
+      "name": "Walter Eder",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW6Ymt9Tze8xycdY7VJ7DoBD8VyDjFi2bwnMO7U3SeiJVI5shg=s120-c-rp-mo-br100",
+      "date": "2026-06-13T19:22:53.113646Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Dresden"
+    },
+    {
+      "id": "AbFvOqkNcPbLRbmLCBKi9qoPnYbgd-zrgMFaTV_uOXvwhkzp_LJ03Fy0XR8XDk0FuuYvIihwM3rr4A",
+      "rating": 5,
+      "feedbackText": "Mein Audi A6 hatte sporadische Fehlermeldungen im Getriebe. Bei Hixa wurde nicht einfach getauscht, sondern geprüft und programmiert. Alisa hat mich währenddessen auf dem Laufenden gehalten.",
+      "origText": "",
+      "name": "Michael Fuchs",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXQHSsiGdzZjwc7Z5yxL2Ac0J30wIv1qQa-cMgJYX2HxXTCbLM=s120-c-rp-mo-br100",
+      "date": "2026-06-11T23:00:23.963326Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Dresden"
+    },
+    {
+      "id": "AbFvOqmakFY0gt3tP1GADwgqzzFM4-pXpPZTmj-zPHnDylelaXPxGCq95lsk_-LmUy46uSYVM4gm",
+      "rating": 5,
+      "feedbackText": "Ksenia hat mir alles erklärt, auch wenn ich zweimal nachgefragt habe. Das ist nicht selbstverständlich. Auto fährt wieder ohne Probleme.",
+      "origText": "",
+      "name": "Hendrik Wagner",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLsp6CVx9haMcUheq7jz5pACPiImpMSCP08uTmqqkMCKN7PWA=s120-c-rp-mo-br100",
+      "date": "2026-06-10T23:18:19.178088Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Dresden"
+    },
+    {
+      "id": "AbFvOqk987WhsVNARdqmWh5BSEHzU-e5qIIw9-0RqsATXODnrta21pyxbYltqnv5e7Bpjg4a8Ept_g",
+      "rating": 5,
+      "feedbackText": "Professionelle Arbeit und angenehmer Kontakt. Man merkt sofort, dass hier Spezialisten arbeiten. Danke Hixa!",
+      "origText": "",
+      "name": "Erich Sommer",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKm_2GdinZ0o7-_HYO2XRZo0RHg3hbbR8eVtV3IWkJ45HAW6Q=s120-c-rp-mo-br100",
+      "date": "2026-06-09T08:15:25.429423Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Dresden"
+    },
+    {
+      "id": "AbFvOqkfQArgAWNUidhGCdrl5j9WwU6Br-_O5Mw5ys-MNvq72s3uVKLhOeZOBCfL0UgC60EnLXQ2",
+      "rating": 5,
+      "feedbackText": "Empfehlenswert👍 Ein wirklich guter und zuverlässiger Service. Alles hat reibungslos geklappt und man wird hier sehr nett betreut. Ich bin rundum zufrieden.",
+      "origText": "",
+      "name": "Emma Schneider",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWfTc_aaNQpnlwI4uVxWw75PKgbsW0VPYmzVfgvGWcRn8NMVsA=s120-c-rp-mo-br100",
+      "date": "2026-05-29T14:49:05.219204Z",
+      "replyText": "Vielen Dank für das tolle Feedback! Schön, dass Sie so zufrieden sind. Bis zum nächsten Mal!",
+      "replyDate": "2026-06-01T17:59:15.253623Z",
+      "location": "Dresden"
+    }
+  ]
+}
