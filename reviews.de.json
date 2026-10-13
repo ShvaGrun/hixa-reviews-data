@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-10-13T12:30:32.507Z",
+  "updatedAt": "2026-10-13T21:45:54.206Z",
   "averageRating": 4.8,
-  "totalReviews": 362,
+  "totalReviews": 363,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqkSjaekF-lGN96yWEb-LFqB3Q-I5p-wMSvCfmM1ej4jXZNdy1yAZe-tgIpFogjcI3ySxB6oXg",
+      "rating": 5,
+      "feedbackText": "Bin zufällig hier gelandet und bleibe definitiv als Stammkunde. Kann ich wirklich empfehlen.Bin zufällig hier gelandet und bleibe definitiv als Stammkunde. Kann ich wirklich empfehlen.",
+      "origText": "",
+      "name": "Anton Sternfels",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWApe8XnmS1D-dIy7R4ysvjWGs9oqQEpLKKgtax4vD8TDpbI7A=s120-c-rp-mo-br100",
+      "date": "2026-10-13T21:00:14.525309Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqly0XspYk8nIYXcedB3yfddPY2SHH5xBkZhsyR_SxE4YwTHBC4K1KQ-R_wwTYYLPif5A3cWhw",
       "rating": 5,
@@ -38,18 +50,6 @@
       "name": "Loregas John",
       "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLJ_15I7lqRhvWJg5VjeQ5h2easSlwezYGiW_J85w4GfXywow=s120-c-rp-mo-br100",
       "date": "2026-10-10T23:23:17.540353Z",
-      "replyText": "",
-      "replyDate": "",
-      "location": "Berlin"
-    },
-    {
-      "id": "AbFvOqnjcRZneor1S7EBXXUonZEApbDdrw2mY46zI75qYHEFl8WoxWFjgWJ5_1NPIAcCQl-GiFh0mg",
-      "rating": 5,
-      "feedbackText": "Wurde hier letztens kurz vor einem wichtigen Termin echt gerettet. Schnelle Hilfe, fairer Preis, was will man mehr?",
-      "origText": "",
-      "name": "Sofía Riveros",
-      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVelmxCJSALJfTa3cKOfl77QASKjC0D9GVzTozQ5Lrwc6FFVf35=s120-c-rp-mo-br100",
-      "date": "2026-10-09T01:26:46.551720Z",
       "replyText": "",
       "replyDate": "",
       "location": "Berlin"
