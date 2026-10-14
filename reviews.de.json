@@ -1,11 +1,35 @@
 {
-  "updatedAt": "2026-10-14T09:57:27.572Z",
+  "updatedAt": "2026-10-14T20:30:05.535Z",
   "averageRating": 4.8,
-  "totalReviews": 363,
+  "totalReviews": 364,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqnqGYZ2VmUweGp8Ds-99mZxdVWzwVgKU0RGgVVCku0Wc_RY1Z5BC8zP-HLrIlDUVEPKYmww",
+      "rating": 5,
+      "feedbackText": "Ich hatte morgens plötzlich eine Fehlermeldung an meiner MPS6 und war erst mal ziemlich ratlos. Bin spontan zur Werkstatt gefahren, dort wurde direkt eine Diagnose gemacht und die Mechatronik getauscht. Hatte ehrlich gesagt mit einer längeren Sache gerechnet, aber alles war tatsächlich an einem Tag erledigt. Hat super geklappt.",
+      "origText": "",
+      "name": "FELIX LAUBERG NOSS",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVoaAaYhW1RdplbyfOvYfKeRsQPvEKt3VETyb4-8SaDRYIZgeo=s120-c-rp-mo-br100",
+      "date": "2026-10-14T15:14:13.028077Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
+    {
+      "id": "AbFvOqls86T8Rk0cXjWwadWk6hon14rT7yOwg6C3y_eSEyQZijfos_xZUYYsnpUHZ-wDH3wvPud_iQ",
+      "rating": 1,
+      "feedbackText": "Wir haben vor gut zehn Wochen ein Ford-Automatikgetriebe an die Firma Hixa versandt. Der Erstkontakt verlief zwar sehr seriös, das Verhalten danach empfanden wir jedoch als äußerst unverschämt.\nNach sehr kurzer Zeit erhielten wir einen vorläufigen Kostenvoranschlag, in dem ein Höchstbetrag von 2.400 Euro für die Reparatur genannt wurde. Als das Getriebe dort eintraf, folgte ein neuer Kostenvoranschlag über 4.400 Euro – verbunden mit der Zusicherung, die Reparatur sei in zwei Wochen abgeschlossen. Man teilte uns mit, das Getriebe sei geprüft worden und weise schwere Schäden auf, was den hohen Preis rechtfertige.\nAls wir der Firma nach zehn Wochen einen spontanen Besuch abstatten, mussten wir feststellen, dass unser Getriebe ungeöffnet und verpackt zwischen diversen anderen Getrieben lag. Nach dem wir mit dem Service Peronal vereinbart haben das wir das Getriebe wieder mit nehmen wollen und den Auftrag abbrechen wollen wurden wir sehr unverschämt behandelt und mussten 4 Stunde warten bis wir das Getriebe mit nehmen durften. Mann müsste es erst mit dem Managment klären.\nNie wieder werden wir hier einen Auftrag erteilen. Wenn es möglich wäre, würde ich null Sterne vergeben.",
+      "origText": "",
+      "name": "Daniel Böwing",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIZy2gi9U_JMb6DBSO4aeSvobsytpqq4zMGmBaGE_Pw3ckz_A=s120-c-rp-mo-br100",
+      "date": "2026-10-14T14:53:02.779169Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqkSjaekF-lGN96yWEb-LFqB3Q-I5p-wMSvCfmM1ej4jXZNdy1yAZe-tgIpFogjcI3ySxB6oXg",
       "rating": 5,
