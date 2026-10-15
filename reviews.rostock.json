@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-15T09:39:47.513Z",
+  "updatedAt": "2026-10-15T20:12:21.161Z",
   "averageRating": 5,
   "totalReviews": 9,
-  "mapsUri": "",
-  "newReviewUri": "",
-  "placeId": "",
+  "mapsUri": "https://maps.google.com/maps?cid=18182930436535719506",
+  "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJKenRJxBXrEcRUpZZDeW-Vvw",
+  "placeId": "ChIJKenRJxBXrEcRUpZZDeW-Vvw",
   "items": [
     {
       "id": "AbFvOqnMMlmoTNORJshCR8ZUIvYDoRSO6-NagkOhhGVy0HEt1iPBde3h9ynZkw3aMduLXwvwwu8CyA",
