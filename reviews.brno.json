@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-10-18T19:16:34.178Z",
+  "updatedAt": "2026-10-19T10:33:46.226Z",
   "averageRating": 5,
-  "totalReviews": 8,
+  "totalReviews": 9,
   "mapsUri": "https://maps.google.com/maps?cid=8713267974554447250",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ6Ty11urrEkcRku0a2A6_63g",
   "placeId": "ChIJ6Ty11urrEkcRku0a2A6_63g",
   "items": [
+    {
+      "id": "AbFvOql1A9_HEr-8IyMSZwm7rAfmLn3KvN7UjGmyMcqKu4E_7rqF12m8yhz-UW7RNlhSzS5b7antJQ",
+      "rating": 5,
+      "feedbackText": "Passat s DQ200 měl 200 tisíc km a konec. Vyměnili mechatroniku za pouhý den.",
+      "origText": "",
+      "name": "jnanesh horaddi",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLKLpC6AGcPRSIaxV7M98a89HITCf9_fCTTLFVGovDsn0h1ntY=s120-c-rp-mo-br100",
+      "date": "2026-10-19T09:40:49.963134Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Brno"
+    },
     {
       "id": "AbFvOql3yMggjw2eRi8yfhW1mZGe0Bw1ooJk0goo0wGL_5C2cecn8wFjr6-C4ZYfKlBREW6W6l1ZrA",
       "rating": 5,
