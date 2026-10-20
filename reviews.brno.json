@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-10-20T09:50:48.123Z",
+  "updatedAt": "2026-10-20T20:19:31.579Z",
   "averageRating": 5,
-  "totalReviews": 9,
+  "totalReviews": 10,
   "mapsUri": "https://maps.google.com/maps?cid=8713267974554447250",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ6Ty11urrEkcRku0a2A6_63g",
   "placeId": "ChIJ6Ty11urrEkcRku0a2A6_63g",
   "items": [
+    {
+      "id": "AbFvOqlCOIATjvcVRB2ZPcC6JdImwxN56A5V8yDiB0KASkc6a5jsnruSdJUPHS0IEUQP9wVXcKrxbg",
+      "rating": 5,
+      "feedbackText": "Komunikace dobrá, i když jsem se ptal na dost věcí. Nikdo se nezlobil. Cením.",
+      "origText": "",
+      "name": "Joel",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL37Wmv1BeMguf9-gMCpCsjWJc7o3vaBxaDx0EMOgsCMpBOyQ=s120-c-rp-mo-br100",
+      "date": "2026-10-20T12:07:37.866215Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Brno"
+    },
     {
       "id": "AbFvOql1A9_HEr-8IyMSZwm7rAfmLn3KvN7UjGmyMcqKu4E_7rqF12m8yhz-UW7RNlhSzS5b7antJQ",
       "rating": 5,
