@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-10-19T21:22:22.169Z",
+  "updatedAt": "2026-10-20T09:50:41.753Z",
   "averageRating": 4.8,
-  "totalReviews": 365,
+  "totalReviews": 366,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOql53xxlji6B0Z1LeHT4JCBPbQfjQ7VTSp5MreDaFeuBsuLUjU3zdceL31jdZYvP93Xr_NhXUQ",
+      "rating": 2,
+      "feedbackText": "",
+      "origText": "",
+      "name": "Gile G",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV3-K3Ic-ZDPEznytl-HGC_kFX96CTyJ-VE6v_kp0wPKkOV0PPElw=s120-c-rp-mo-ba12-br100",
+      "date": "2026-10-20T05:13:18.345399Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqkcxUrkOZwHmG7d4BMlxHxQu4YbVvRrGUIlqGXwaO-tIj4qbUUpVn3MVL9LEPLzjqb6jsqlcA",
       "rating": 5,
