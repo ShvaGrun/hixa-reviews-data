@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-20T20:19:24.837Z",
+  "updatedAt": "2026-10-21T09:52:44.932Z",
   "averageRating": 4.8,
-  "totalReviews": 365,
+  "totalReviews": 363,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
@@ -26,18 +26,6 @@
       "name": "Moneb swaid",
       "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV2b4rKb02s5qQHI5bk5J3PUNZNMzXiUWoXsJFOIMLjD98u9x0o=s120-c-rp-mo-br100",
       "date": "2026-10-16T13:41:28.708746Z",
-      "replyText": "",
-      "replyDate": "",
-      "location": "Berlin"
-    },
-    {
-      "id": "AbFvOqnqGYZ2VmUweGp8Ds-99mZxdVWzwVgKU0RGgVVCku0Wc_RY1Z5BC8zP-HLrIlDUVEPKYmww",
-      "rating": 5,
-      "feedbackText": "Ich hatte morgens plötzlich eine Fehlermeldung an meiner MPS6 und war erst mal ziemlich ratlos. Bin spontan zur Werkstatt gefahren, dort wurde direkt eine Diagnose gemacht und die Mechatronik getauscht. Hatte ehrlich gesagt mit einer längeren Sache gerechnet, aber alles war tatsächlich an einem Tag erledigt. Hat super geklappt.",
-      "origText": "",
-      "name": "FELIX LAUBERG NOSS",
-      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVoaAaYhW1RdplbyfOvYfKeRsQPvEKt3VETyb4-8SaDRYIZgeo=s120-c-rp-mo-br100",
-      "date": "2026-10-14T15:14:13.028077Z",
       "replyText": "",
       "replyDate": "",
       "location": "Berlin"
@@ -254,18 +242,6 @@
       "name": "CHRISTIAN JOVANY PAREDES MARTINEZ",
       "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLs4UlzKhBjkm1EFl7IACV9Pkzn41-AwpSrhT_v-QTDL4TUsw=s120-c-rp-mo-br100",
       "date": "2026-09-24T17:05:42.310421Z",
-      "replyText": "",
-      "replyDate": "",
-      "location": "Berlin"
-    },
-    {
-      "id": "AbFvOqlUmvp5ywm03DHmwnYGsZr6n38BUTzrdcR6VchRx5obZGaTuGDSKk9vp2JW4HfdasfmG001UA",
-      "rating": 1,
-      "feedbackText": "Schneller Termin, schneller Test mit dem Ergebnis, dass die quasi neue Mechatronik ausgewechselt werden muss. Trotz Zusage weder den Kostenvorschlag noch die Fehleranalyse erhalten. Schafft kein Vertrauen.",
-      "origText": "",
-      "name": "Günther Jonitz",
-      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU2FYXLufE8-z5bL49SJo3F_tOAgM97KAH8chYonriUaUKC5Lc=s120-c-rp-mo-ba12-br100",
-      "date": "2026-09-24T15:48:40.479703Z",
       "replyText": "",
       "replyDate": "",
       "location": "Berlin"
