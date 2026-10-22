@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-10-22T09:52:42.606Z",
+  "updatedAt": "2026-10-22T20:26:24.683Z",
   "averageRating": 4.8,
-  "totalReviews": 363,
+  "totalReviews": 364,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqmOmGVmOvE_Vhfsi55IzxZApBGX2DPlm8t45dXVBGpVZqu_3J35RTCocdlfmOR0ugIuBDFfmw",
+      "rating": 5,
+      "feedbackText": "Ksenia hat den Termin, den Ölwechsel und auch die DSG-Anpassung an meiner DQ400 organisiert. Der Kundenservice war schnell erreichbar und hat immer zügig geantwortet. Jetzt schaltet das Getriebe wieder richtig sauber. Bin zufrieden.",
+      "origText": "",
+      "name": "dalton fumo",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIZ6F6Yef0EC7U2FZcJdfZDipIHqE-9SlVOm95hbb_Ebebk_A=s120-c-rp-mo-br100",
+      "date": "2026-10-22T13:12:37.871652Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqkcxUrkOZwHmG7d4BMlxHxQu4YbVvRrGUIlqGXwaO-tIj4qbUUpVn3MVL9LEPLzjqb6jsqlcA",
       "rating": 5,
