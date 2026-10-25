@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-10-25T09:37:21.459Z",
-  "averageRating": 5,
-  "totalReviews": 9,
+  "updatedAt": "2026-10-25T19:28:14.212Z",
+  "averageRating": 4.6,
+  "totalReviews": 10,
   "mapsUri": "https://maps.google.com/maps?cid=5394989107252693466",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJZb1yV7s7v0cR2gnmWALa3ko",
   "placeId": "ChIJZb1yV7s7v0cR2gnmWALa3ko",
   "items": [
+    {
+      "id": "AbFvOqkowqXrDU_jVdfxz8yGvJS2RdVGvuHL7ptXbAN2GbXAhxGhyI4vywVgh98Yof5w0gkVe8-G",
+      "rating": 1,
+      "feedbackText": "",
+      "origText": "",
+      "name": "Canopy Growth",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXaZqdUdQwabNPzAV5TEfkxDhM70zxouySRwX5wAixGQSBCoIqBhg=s120-c-rp-mo-ba12-br100",
+      "date": "2026-10-25T14:52:59.223229Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Köln"
+    },
     {
       "id": "AbFvOqkSlJmRi4TLmxirjzjr9gRHdGsJ_yMSTZ0i-FOtwTexTsSx5HyTDtVv6ib7O28T0mg64Jx3eQ",
       "rating": 5,

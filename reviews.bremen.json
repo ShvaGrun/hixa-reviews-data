@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-10-25T09:37:17.617Z",
-  "averageRating": 5,
-  "totalReviews": 9,
+  "updatedAt": "2026-10-25T19:28:10.972Z",
+  "averageRating": 4.6,
+  "totalReviews": 10,
   "mapsUri": "https://maps.google.com/maps?cid=10447973864449958727",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ4dA3vOMnsUcRR-Mavd-o_pA",
   "placeId": "ChIJ4dA3vOMnsUcRR-Mavd-o_pA",
   "items": [
+    {
+      "id": "AbFvOqk21-e0YWgKjxwzTs5OE8wfm2XIQI6GZCwzkKme6vSeK3HTBt5lzulgDXKh0xLCGL8B5hUr_w",
+      "rating": 1,
+      "feedbackText": "",
+      "origText": "",
+      "name": "Canopy Growth",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXaZqdUdQwabNPzAV5TEfkxDhM70zxouySRwX5wAixGQSBCoIqBhg=s120-c-rp-mo-ba12-br100",
+      "date": "2026-10-25T15:05:14.997806Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Bremen"
+    },
     {
       "id": "AbFvOqmywd2sAnqq7KRVaeJ0qN-rG9hLFKv0LDn9jn4amVdYrYk1JXJ-Mt5M6AlnDMakeByCgAO9ng",
       "rating": 5,
