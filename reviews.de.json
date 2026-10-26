@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-10-26T10:48:44.339Z",
+  "updatedAt": "2026-10-26T21:26:17.970Z",
   "averageRating": 4.8,
-  "totalReviews": 364,
+  "totalReviews": 365,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqkA5ZqW5SfiK7LWsmHcgY93R874zFbxfLoRh239afLQ9uivmN9-kWOjRTTUXzHck-0woOpTvQ",
+      "rating": 5,
+      "feedbackText": "Kompetent, schnell und freundlich. Top Service!",
+      "origText": "",
+      "name": "Darren Arthur",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUowfqfJ-09anSW0WFiuJ5-heP5Qzypw2dXS4QD91mZt5J9jyFr=s120-c-rp-mo-br100",
+      "date": "2026-10-26T16:15:51.378167Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqmOmGVmOvE_Vhfsi55IzxZApBGX2DPlm8t45dXVBGpVZqu_3J35RTCocdlfmOR0ugIuBDFfmw",
       "rating": 5,
@@ -228,7 +240,7 @@
       "feedbackText": "Ich komme schon seit Jahren hierher und wurde noch nie enttäuscht. Konstant gute Arbeit.",
       "origText": "",
       "name": "Brayden Kwiatek",
-      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWNKkvGQp0Uju6awWZo8JhA-e-JH5k4cEXBZkja9RTXETWWEKjI=s120-c-rp-mo-br100",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWfQidQfeci4FwQzLNBqLXrnnWIsKLLVyCyQUwGGRMr7YdUiDVw=s120-c-rp-mo-br100",
       "date": "2026-09-25T23:14:48.787110Z",
       "replyText": "",
       "replyDate": "",
