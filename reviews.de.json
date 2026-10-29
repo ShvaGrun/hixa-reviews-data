@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-10-28T21:32:01.342Z",
+  "updatedAt": "2026-10-29T11:20:39.572Z",
   "averageRating": 4.8,
-  "totalReviews": 365,
+  "totalReviews": 366,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqmi_xyYVPZk9cC38r_XGl0afv6dKIalUdm85O9BF_ZKARJH8McXTqbFgpbHUU6rN1ZDUdlOSQ",
+      "rating": 5,
+      "feedbackText": "Gestern erst wieder das Auto dagelassen und wie immer absolut zufrieden. Man weiß einfach, dass man hier gut aufgehoben ist.",
+      "origText": "",
+      "name": "Andreas Drachenstein",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVVoBqP-fGyz_8vHHxFyXxZa3ZVUt_w_kF4N8bllZNueqLkMqk=s120-c-rp-mo-br100",
+      "date": "2026-10-29T00:13:09.377240Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqkA5ZqW5SfiK7LWsmHcgY93R874zFbxfLoRh239afLQ9uivmN9-kWOjRTTUXzHck-0woOpTvQ",
       "rating": 5,
