@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-10-31T10:46:16.578Z",
-  "averageRating": 4.8,
-  "totalReviews": 366,
+  "updatedAt": "2026-10-31T20:25:35.939Z",
+  "averageRating": 4.9,
+  "totalReviews": 367,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqleUz6WIU520ca0xvMfY8hoRyaTANrKzCuBL8GnI80J_Vlj2z0Gc-ilnP9tvb5oVkwJorDIqQ",
+      "rating": 5,
+      "feedbackText": "Kurzfristig wegen Getriebeproblemen gemeldet und direkt Hilfe bekommen. Der Fehler wurde schnell gefunden und behoben. Tolles Team!",
+      "origText": "",
+      "name": "Sebastian Fernandes Dos Santos",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjViI20WVcpWvxnXBvNn0NL_Guieh4NLz5hR_Y9LxpTa9cf2-Gmw=s120-c-rp-mo-br100",
+      "date": "2026-10-31T14:41:48.587728Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqmi_xyYVPZk9cC38r_XGl0afv6dKIalUdm85O9BF_ZKARJH8McXTqbFgpbHUU6rN1ZDUdlOSQ",
       "rating": 5,
