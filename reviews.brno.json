@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-10-31T20:25:41.730Z",
+  "updatedAt": "2026-11-01T11:44:17.301Z",
   "averageRating": 5,
   "totalReviews": 9,
   "mapsUri": "https://maps.google.com/maps?cid=8713267974554447250",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ6Ty11urrEkcRku0a2A6_63g",
   "placeId": "ChIJ6Ty11urrEkcRku0a2A6_63g",
   "items": [
+    {
+      "id": "AbFvOqmkfN5ivwSFhCu2VDUAiJqE6oc17uhsImdT3FYGNfS0gwbtUuxwZ_XX4IgdFC_Ta717G6dWkA",
+      "rating": 5,
+      "feedbackText": "Parkrat sem byl jinde a nelitoval sem jen tady. Takze uz jen sem.",
+      "origText": "",
+      "name": "Tomas",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVMC2ZgiYuJ46j6k7zI8DZ6dtOV22dj9D7XtP-PR62NPheMjaY=s120-c-rp-mo-br100",
+      "date": "2026-10-31T19:35:01.731059Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Brno"
+    },
     {
       "id": "AbFvOql3yMggjw2eRi8yfhW1mZGe0Bw1ooJk0goo0wGL_5C2cecn8wFjr6-C4ZYfKlBREW6W6l1ZrA",
       "rating": 5,
