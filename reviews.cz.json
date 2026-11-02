@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-11-02T13:12:40.384Z",
-  "averageRating": 4.4,
-  "totalReviews": 13,
+  "updatedAt": "2026-11-02T23:49:33.877Z",
+  "averageRating": 4.1,
+  "totalReviews": 14,
   "mapsUri": "https://maps.google.com/maps?cid=17906204332796470007",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJneCe-rLtC0cR9-LkM_idf_g",
   "placeId": "ChIJneCe-rLtC0cR9-LkM_idf_g",
   "items": [
+    {
+      "id": "AbFvOqnxzc1_eYBauqE2lTSB9VAna3w-PtK2kVqJZbFnSA9A1fL0wWG199_vfJwaF3pUQ0CxT31z",
+      "rating": 1,
+      "feedbackText": "Firmu HIXA na základě vlastní zkušenosti vůbec nedoporučuji.\n\nAuto jsem odvezl do servisu 28. srpna 2026 kvůli závadě mechatroniky DSG. Za opravu a zpětné zaslání mechatroniky včetně řídicí jednotky jsem 3. září zaplatil 33 965 Kč. K dnešnímu dni, 2. listopadu 2026, stále nemám auto opravené.\n\nPo prvním doručení mechatroniky zpět mechanik při rozbalení zjistil poškozený ventil a 16. září ji reklamoval. Firma ji následně měla přibližně měsíc u sebe. Po uplynutí 30 dnů ji poslala zpět, ale podle kontroly mechanika ve stejném poškozeném stavu, v jakém ji odeslal na reklamaci. Reklamované poškození nebylo odstraněno.\n\nJednání se zákazníkem hodnotím jako katastrofální. Komunikaci provázely opakované urgence a nedodržené slíbené termíny odeslání. Při telefonickém řešení mi v českém oddělení několikrát položili telefon. Obrátil jsem se také na německou centrálu, ale na své e-maily jsem nedostával odpovědi.\n\nFirma uvádí adresu v Praze, ale nepodařilo se mi dohledat zákaznickou pobočku ani kancelář, kam bych mohl osobně přijít a problém řešit. Při takto obtížné komunikaci to pro mě představuje další zásadní komplikaci.\n\nVýsledek: více než dva měsíce bez opraveného auta, zaplacených téměř 34 tisíc korun a mechatronika vrácená po měsíční reklamaci se stejným poškozením. Po této zkušenosti jsem ve firmu zcela ztratil důvěru a celou záležitost budu řešit také podáním podnětu České obchodní inspekci.\n\nZa sebe každému doporučuji, aby si opravu přes firmu HIXA důkladně rozmyslel. Já bych jim už další opravu nesvěřil. Nechci, aby další zákazníci museli procházet stejným čekáním, urgencemi a zklamáním jako já.",
+      "origText": "",
+      "name": "Pavel Jelinek",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXgxl9-2-wgZS_1CzmMu3BZvwwyPt9ehwUNqM_pGqMjBFpZ_2j-=s120-c-rp-mo-br100",
+      "date": "2026-11-02T16:41:33.178863Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Praha"
+    },
     {
       "id": "AbFvOqkXhrdldAzhHIPJC_jAbuBL_R137X2R6lyh31pJgpM7NDxFxWZyD_8bWX4pkQ1dpP46rOom",
       "rating": 1,
