@@ -3,7 +3,7 @@
     {
       "name": "reviews.bremen.json",
       "bytes": 6943,
-      "sha256": "2234417dfa567b42d83aaa29284d1951c905a113e94087b686514a0f124d5759"
+      "sha256": "eaf5f69a9bf3d1124247c1adcb0830a84839ff025cb3e6882db81a7ee415215d"
     },
     {
       "name": "reviews.bremen.summary.json",
@@ -12,18 +12,18 @@
     },
     {
       "name": "reviews.brno.json",
-      "bytes": 5701,
-      "sha256": "26b3f7349097478ecbf4ca726cd9f8ed13ae7d4c3a4b2ffcf2bd8c08d99fb97a"
+      "bytes": 6238,
+      "sha256": "64571237d207d9bdeef9900a2f2899d516443fc6a6715b9a3e024b02260f8495"
     },
     {
       "name": "reviews.brno.summary.json",
-      "bytes": 141,
-      "sha256": "7150a1a2a93c65b943bcfc1bfa54409569f49167b7c0fc7897e1602d6cf9cac7"
+      "bytes": 142,
+      "sha256": "cd6700df76f74f4c382248ec662f830bddba78c69789de0f407675f51da2034a"
     },
     {
       "name": "reviews.cz.json",
       "bytes": 15184,
-      "sha256": "665f0ace5f1941aa0df04dc9c6e342f6299d3c8a4f2713da79602cf849c402a7"
+      "sha256": "e61e509ff92e5d0645727b23495513ee18e752a33b8901e73227b4893fa82323"
     },
     {
       "name": "reviews.cz.summary.json",
@@ -32,18 +32,18 @@
     },
     {
       "name": "reviews.de.json",
-      "bytes": 269847,
-      "sha256": "9db27bc7320b435fc352591edd4882c15988771505196664a74e4393df3fd777"
+      "bytes": 270501,
+      "sha256": "d661e93051e897fef15340d4df3786974ef7db3e23308dcb5c0bf9168d7fcc57"
     },
     {
       "name": "reviews.de.summary.json",
       "bytes": 146,
-      "sha256": "19e40a5a44367b3c5114e11cd071264f720109494e439bcbc15377167082feed"
+      "sha256": "39691cffabda597310514cc9e0fb32b1dc0e90c74e399fab3183aca4a3c71443"
     },
     {
       "name": "reviews.detmold.json",
       "bytes": 6419,
-      "sha256": "67060ce6ed61de879e242766d1f1a55308c18f3bd5193da6712a8d5b2188f4bf"
+      "sha256": "62a6cfad05ae5c7c4ed7ae922f49c9c777c720c168bd00559d7747fd8b73981a"
     },
     {
       "name": "reviews.detmold.summary.json",
@@ -53,7 +53,7 @@
     {
       "name": "reviews.dortmund.json",
       "bytes": 19772,
-      "sha256": "0c84e5a294af82abddf142ef7e8f5f65a7b71016722dd952b22fe8a57f1845ea"
+      "sha256": "ceb056c35b5fe6b3a1605227bb51d690dee50db0981114093c53df5c50748dc4"
     },
     {
       "name": "reviews.dortmund.summary.json",
@@ -63,7 +63,7 @@
     {
       "name": "reviews.dresden-flensburger.json",
       "bytes": 6290,
-      "sha256": "bca6c147bedd285aa374ce22e254e7250f4e13baf38b411480c4e75cb5b97e06"
+      "sha256": "1e830bfcb8627e6a75efb367793b07f5b49dfd50fc979b3c2f3227838ca21a8e"
     },
     {
       "name": "reviews.dresden-flensburger.summary.json",
@@ -73,7 +73,7 @@
     {
       "name": "reviews.dresden.json",
       "bytes": 4236,
-      "sha256": "b6351f6a72338dfa8226763d3e5a3c3a5575fb77acedf8ddcd4be68ee16a7d9a"
+      "sha256": "cde95caffe7aa5d83d2c7d6ca09bdc6e751c9e2859a3575876e85d8d5f80c716"
     },
     {
       "name": "reviews.dresden.summary.json",
@@ -83,7 +83,7 @@
     {
       "name": "reviews.essen.json",
       "bytes": 6454,
-      "sha256": "78f5e49f965a07ad9b41e27618801eee1f71e3ab627bb28544123808037ba462"
+      "sha256": "25a4f3e6f0d06e4fe48536c3e900175614ce891596e24502d38ecd4a507dec9c"
     },
     {
       "name": "reviews.essen.summary.json",
@@ -103,7 +103,7 @@
     {
       "name": "reviews.koln.json",
       "bytes": 6623,
-      "sha256": "db7d5d84ef936d0aad8d82f6b8b2e227bd249cdd49db0495cc7b0f9fac16fa3b"
+      "sha256": "fd66e3fb0595c906b5f77619bd6be8a7101bf855fb9cdac332dd2d01b257e47b"
     },
     {
       "name": "reviews.koln.summary.json",
@@ -113,7 +113,7 @@
     {
       "name": "reviews.konstanz.json",
       "bytes": 2958,
-      "sha256": "510dd4525ebe2161fce30c0a6ea97ce6e251b9b8edbf98f216ea359ccdf05050"
+      "sha256": "d4bf610fa562ca2a822b3e17a1847bde55d1c24520b4a560f913eec76c509485"
     },
     {
       "name": "reviews.konstanz.summary.json",
@@ -123,7 +123,7 @@
     {
       "name": "reviews.liberec.json",
       "bytes": 8824,
-      "sha256": "596e14675cbbc23e9604e3a442a40d32a691affc02a55bdc14fa3463503efa1d"
+      "sha256": "909ef79cc285fca4f0e476a27513f2c94bbe772e61ff6ca2f1039758d6a9abc8"
     },
     {
       "name": "reviews.liberec.summary.json",
@@ -133,7 +133,7 @@
     {
       "name": "reviews.olomouc.json",
       "bytes": 6129,
-      "sha256": "020232b78a4afe35df007518f570c3970555d6bc2a36bc3f32fb27f7bfed484f"
+      "sha256": "9f45811ffac6d33efb0adaf1a59f758c21ed0eb9e96f6c07fad03184a65fad0b"
     },
     {
       "name": "reviews.olomouc.summary.json",
@@ -143,7 +143,7 @@
     {
       "name": "reviews.ostrava.json",
       "bytes": 6410,
-      "sha256": "1ff7f60c101d1af45308d4fb7650a8114f38a3078d0fbdf2a609e96a73b265a8"
+      "sha256": "070f6bb4c2030d2038f85dc4ef67b775800fe2157aac885cf4bba1b00f42c8ad"
     },
     {
       "name": "reviews.ostrava.summary.json",
@@ -153,7 +153,7 @@
     {
       "name": "reviews.plzen.json",
       "bytes": 7106,
-      "sha256": "f4e668099108c662d88a9ee1b064e4bce34bff48b69df9117edf6041c4a3b594"
+      "sha256": "d44487db515d6e9b2e789eac76b2b302dc5511ea5753bdfcd5f10a6ef7d89d19"
     },
     {
       "name": "reviews.plzen.summary.json",
@@ -163,7 +163,7 @@
     {
       "name": "reviews.rostock.json",
       "bytes": 6047,
-      "sha256": "210a3b0606d1913d4ef0191efbe61e811b1b5a61cea56cdacd76a6b27d8a0113"
+      "sha256": "a3c0cd476ccfc5cb01899a4702621fb25bcfd582475b79c4ed13a8657db858e5"
     },
     {
       "name": "reviews.rostock.summary.json",
@@ -173,7 +173,7 @@
     {
       "name": "reviews.saarbrucken.json",
       "bytes": 3903,
-      "sha256": "2cf1544dcb057f68138b73b794986708564ba0422ccea78b8b860630f8686569"
+      "sha256": "ade5c888a6ef970787464c4244f04221271bf52d3e0ff7f0b6a4bc673bdfc49f"
     },
     {
       "name": "reviews.saarbrucken.summary.json",

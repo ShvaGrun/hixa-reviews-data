@@ -1,11 +1,35 @@
 {
-  "updatedAt": "2026-11-03T22:14:37.917Z",
+  "updatedAt": "2026-11-04T12:50:02.197Z",
   "averageRating": 4.9,
-  "totalReviews": 366,
+  "totalReviews": 369,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqlWEf9Tl1ugeuoVSsffxURnqNxGDZCcpLF5TZE1aFjtB8XYnofSwH8wXgvZI2X0pWqjB6xyQA",
+      "rating": 5,
+      "feedbackText": "Bei meiner 6DCT450 fing das Getriebe plötzlich an zu ruckeln. Ich war damit zuerst in einer anderen Werkstatt und dort wollte man mir direkt ein neues Getriebe verkaufen. Da mir das ehrlich gesagt ziemlich teuer vorkam, habe ich noch eine zweite Meinung bei HIXA eingeholt. Zum Glück, denn dort wurde der Fehler an der Mechatronik gefunden und deutlich günstiger repariert. Dazu gab es noch 2 Jahre Garantie. Bin froh, dass ich nicht direkt dem ersten Vorschlag zugestimmt habe.",
+      "origText": "",
+      "name": "Thomas Schneider",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUofiTDlwt2I-AsrAEX-7JyBv6D_gJ3BrXcddCiILCk0p5-o_c=s120-c-rp-mo-ba12-br100",
+      "date": "2026-11-04T09:04:26.878792Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
+    {
+      "id": "AbFvOqlnUda04zmowhFm7RqT9s-Dj2rCLSCMGOMAILf9FnguYzGceVAxKwU526DNK0ddSN9yqvd4pw",
+      "rating": 5,
+      "feedbackText": "richtig coole Truppe und echt kompetente Werkstatt.",
+      "origText": "",
+      "name": "Lotte Schattenwald",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUozfyDLjCA6A-UCo-DgKeU2ulb4hMHQtGUDH4T_B5tj_IGEl0=s120-c-rp-mo-br100",
+      "date": "2026-11-04T06:34:36.415712Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqleUz6WIU520ca0xvMfY8hoRyaTANrKzCuBL8GnI80J_Vlj2z0Gc-ilnP9tvb5oVkwJorDIqQ",
       "rating": 5,
@@ -67,18 +91,6 @@
       "location": "Berlin"
     },
     {
-      "id": "AbFvOqls86T8Rk0cXjWwadWk6hon14rT7yOwg6C3y_eSEyQZijfos_xZUYYsnpUHZ-wDH3wvPud_iQ",
-      "rating": 1,
-      "feedbackText": "Wir haben vor gut zehn Wochen ein Ford-Automatikgetriebe an die Firma Hixa versandt. Der Erstkontakt verlief zwar sehr seriös, das Verhalten danach empfanden wir jedoch als äußerst unverschämt.\nNach sehr kurzer Zeit erhielten wir einen vorläufigen Kostenvoranschlag, in dem ein Höchstbetrag von 2.400 Euro für die Reparatur genannt wurde. Als das Getriebe dort eintraf, folgte ein neuer Kostenvoranschlag über 4.400 Euro – verbunden mit der Zusicherung, die Reparatur sei in zwei Wochen abgeschlossen. Man teilte uns mit, das Getriebe sei geprüft worden und weise schwere Schäden auf, was den hohen Preis rechtfertige.\nAls wir der Firma nach zehn Wochen einen spontanen Besuch abstatten, mussten wir feststellen, dass unser Getriebe ungeöffnet und verpackt zwischen diversen anderen Getrieben lag. Nach dem wir mit dem Service Peronal vereinbart haben das wir das Getriebe wieder mit nehmen wollen und den Auftrag abbrechen wollen wurden wir sehr unverschämt behandelt und mussten 4 Stunde warten bis wir das Getriebe mit nehmen durften. Mann müsste es erst mit dem Managment klären.\nNie wieder werden wir hier einen Auftrag erteilen. Wenn es möglich wäre, würde ich null Sterne vergeben.",
-      "origText": "",
-      "name": "Daniel Böwing",
-      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIZy2gi9U_JMb6DBSO4aeSvobsytpqq4zMGmBaGE_Pw3ckz_A=s120-c-rp-mo-br100",
-      "date": "2026-10-14T14:53:02.779169Z",
-      "replyText": "",
-      "replyDate": "",
-      "location": "Berlin"
-    },
-    {
       "id": "AbFvOqkSjaekF-lGN96yWEb-LFqB3Q-I5p-wMSvCfmM1ej4jXZNdy1yAZe-tgIpFogjcI3ySxB6oXg",
       "rating": 5,
       "feedbackText": "Bin zufällig hier gelandet und bleibe definitiv als Stammkunde. Kann ich wirklich empfehlen.Bin zufällig hier gelandet und bleibe definitiv als Stammkunde. Kann ich wirklich empfehlen.",
@@ -110,6 +122,18 @@
       "name": "Rudi Drachenstein",
       "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXmFztNCk43eL6hFuden22WBNjA-OpfqwuTo5zMj22DZDwEMvE=s120-c-rp-mo-br100",
       "date": "2026-10-12T12:52:20.677991Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
+    {
+      "id": "AbFvOqmz8FdKYRRHKHeXDF9cWEX6G-ByZ40iDRTqGiI_mYP5Sy5XO_tk_U4hGUzjAgfvbqW7kdAp",
+      "rating": 1,
+      "feedbackText": "Ich kann mich nur der Rezession der KFZ Werkstatt Schwedenelch anschließen!!! Auch bei mir war ein Sensor angeklebt und die Mechatronik als generalüberholt deklariert. Der Rechtsstreit hierzu läuft noch seit 1,5 Jahren. Ich kann jedem nur empfehlen Finger weg von Geschäften mit einer solch unseriösen Firma welche auch in regelmäßigen Abständen alle Negativen Google Rezessionen löschen lässt!",
+      "origText": "",
+      "name": "Michael Gerhardt",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWRkGqdMzeSS_URLUDzEtZ4eIqax63rt6dl8RF3Wz1i8V67MHGM=s120-c-rp-mo-br100",
+      "date": "2026-10-08T07:58:04.073631Z",
       "replyText": "",
       "replyDate": "",
       "location": "Berlin"
