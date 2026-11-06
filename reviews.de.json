@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-11-06T12:45:40.181Z",
+  "updatedAt": "2026-11-06T21:58:23.982Z",
   "averageRating": 4.9,
-  "totalReviews": 370,
+  "totalReviews": 369,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqnQYa2iclevefuw3DH9I1N2Sig0eqPgI47KkfZLUHzs2V_-KXf4lKpau3XF1cMqm_lNS_dBdg",
+      "rating": 5,
+      "feedbackText": "Ich fahre mittlerweile echt nur noch hierher👏 Egal was ist, der Service stimmt einfach jedes Mal.",
+      "origText": "",
+      "name": "lennard_de_44",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV2zwaFAzmzVDYx2uDIuubu64DvayUT53kApBKzG4sTrIbtJ14=s120-c-rp-mo-br100",
+      "date": "2026-11-06T15:00:01.283037Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqnzEQDRM6aayvGKaW9SOvRxUyPSCyFB0gLOO-tFLNwEERyID2TGlWsAjKq5YD_aHv-DW8BD",
       "rating": 5,
