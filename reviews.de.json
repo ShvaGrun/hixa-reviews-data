@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-11-06T21:58:23.982Z",
+  "updatedAt": "2026-11-07T11:34:04.283Z",
   "averageRating": 4.9,
   "totalReviews": 369,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqnsEp9M6GtMDMhU8GCLj5Fnd-OKOGERjOoYqF4L_ssjHpHgX11on8r7fy_2YqGZLpifvPPsUQ",
+      "rating": 5,
+      "feedbackText": "Morgens plötzlich Probleme mit meiner DQ380 bekommen und direkt bei HIXA angerufen. Anna hat den Termin super organisiert und ich konnte das Auto noch am selben Tag vorbeibringen. Nach dem Austausch des Mechatronik-Moduls konnte ich den Wagen abends schon wieder abholen. Hat alles viel unkomplizierter geklappt als gedacht.",
+      "origText": "",
+      "name": "Tobias",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWDnWeoLc7QfwNG-vT9xP0EBVZo9xQUA-guB9Q5mjlNn0erlKw=s120-c-rp-mo-br100",
+      "date": "2026-11-07T11:24:04.960480Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqnQYa2iclevefuw3DH9I1N2Sig0eqPgI47KkfZLUHzs2V_-KXf4lKpau3XF1cMqm_lNS_dBdg",
       "rating": 5,
@@ -1106,18 +1118,6 @@
       "name": "Wanessa",
       "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJompg0jvWlMRculqsiCizuHL09R4-qV5xk60wHYrt15zq4=s120-c-rp-mo-ba12-br100",
       "date": "2024-12-20T08:38:21.993516Z",
-      "replyText": "",
-      "replyDate": "",
-      "location": "Berlin"
-    },
-    {
-      "id": "AbFvOqnUPLj0mjABrQREMFHAWM9vFzGr1s1s6_6l4lmnlqqEx0s1VL2_DjGmpEfQRA6SPgcmbzLDgA",
-      "rating": 5,
-      "feedbackText": "Ich empfehle die Nutzung der Dienste.",
-      "origText": "Polecam skorzystać z usług",
-      "name": "Michał Ministrant Puer",
-      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVwnqBN_z0pfzkrCVhhCYzChipcRMTeuuseLEIr8Hn0eLj_INyF=s120-c-rp-mo-ba12-br100",
-      "date": "2024-12-19T11:57:33.906556Z",
       "replyText": "",
       "replyDate": "",
       "location": "Berlin"
