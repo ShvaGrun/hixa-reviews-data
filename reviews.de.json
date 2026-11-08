@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:42:24.777Z",
+  "updatedAt": "2026-11-08T11:46:59.277Z",
   "averageRating": 4.9,
   "totalReviews": 368,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
@@ -907,18 +907,6 @@
       "location": "Berlin"
     },
     {
-      "id": "AbFvOqmLAIeaQhgrU-akbMVs1BhQkk_vwjSs5pI3Q33D_7XF0zkavHvcxEG18x6fHXaVUzmCSQxvsw",
-      "rating": 5,
-      "feedbackText": "Das Getriebe funktionierte nicht mehr. Nach der Reparatur in dieser Werkstatt habe ich vergessen, was das Problem mit dem Getriebe war. Es funktioniert jetzt wieder einwandfrei, genau wie am Tag des Autokaufs.",
-      "origText": "Skrzynia biegów odmówiła posłuszeństwa, po naprawie w tym serwisie zapomniałam co to jest problem z skrzynią biegów, działa bardzo płynnie tak samo jak zakupiłam ten samochód.",
-      "name": "Agata",
-      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLJVHU_X7ifdzD32QvvAGIcqTPpd_R-tn4bUhBvBZ0Xw88f_3o=s120-c-rp-mo-ba12-br100",
-      "date": "2025-06-15T13:23:13.555898Z",
-      "replyText": "",
-      "replyDate": "",
-      "location": "Berlin"
-    },
-    {
       "id": "AbFvOqlXHBepubr9oxxqfiy18tuYd8dqM_Z63cp_fUgmt4VbQH-BaqkFJQYCiGiJTirOQTpEAwj2OA",
       "rating": 5,
       "feedbackText": "Gut!",
@@ -1072,18 +1060,6 @@
       "date": "2025-02-04T05:13:31.794307Z",
       "replyText": "vielen Dank für Ihre Rückmeldung. Das freut uns immer, Ihnen zu helfen.",
       "replyDate": "2025-02-07T08:44:19.684972Z",
-      "location": "Berlin"
-    },
-    {
-      "id": "AbFvOqnUvPoVFf2XelytDSBKQb5ZER_tAhqo4Cf6Gew4JhDMc3XYx9a8Jj1sgbWCVy_vAiAEWoH6rA",
-      "rating": 5,
-      "feedbackText": "Vielen Dank für die Reparatur meines Autos, mein Kühler war kaputt, sie haben ihn schnell und effizient repariert. Ich kann sie uneingeschränkt empfehlen, eine zuverlässige Firma.",
-      "origText": "Dziękuję za naprawę samochodu ,chłodnica mi poszła ,szybko i sprawnie dokonali naprawy ,polecam solidna firma ,bez zastrzeżeń.",
-      "name": "Agnieszka Nowakowska",
-      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXlzfdwKuCHw_3nE9-jIo3vYjP8kLYvMD_KwZ1c5iLXULREBGm_BQ=s120-c-rp-mo-ba12-br100",
-      "date": "2024-12-27T19:10:37.570382Z",
-      "replyText": "",
-      "replyDate": "",
       "location": "Berlin"
     },
     {
