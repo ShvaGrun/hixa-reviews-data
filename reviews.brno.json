@@ -1,23 +1,11 @@
 {
-  "updatedAt": "2026-11-08T20:59:21.899Z",
+  "updatedAt": "2026-11-09T13:40:41.764Z",
   "averageRating": 5,
   "totalReviews": 9,
   "mapsUri": "https://maps.google.com/maps?cid=8713267974554447250",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ6Ty11urrEkcRku0a2A6_63g",
   "placeId": "ChIJ6Ty11urrEkcRku0a2A6_63g",
   "items": [
-    {
-      "id": "AbFvOqkcyvGpTZXYddNPzWoQziOPjYB4rsRMz3qzB82sN6nDxhlYLMUaW2EdA48xKrxxNW8huEM7sw",
-      "rating": 5,
-      "feedbackText": "DL382 zlobila za studena. V Hixa našli chybu hned, ušetřil jsem tisíce.",
-      "origText": "",
-      "name": "Grzegorz Leśnyszept",
-      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXTmkbr1-5Wrzcf_nefzCRekfv5OOeu7Z3QXZLPdIfesbaEAps=s120-c-rp-mo-br100",
-      "date": "2026-11-04T06:48:17.995057Z",
-      "replyText": "",
-      "replyDate": "",
-      "location": "Brno"
-    },
     {
       "id": "AbFvOqmkfN5ivwSFhCu2VDUAiJqE6oc17uhsImdT3FYGNfS0gwbtUuxwZ_XX4IgdFC_Ta717G6dWkA",
       "rating": 5,

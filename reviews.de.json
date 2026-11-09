@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-11-08T20:59:15.406Z",
+  "updatedAt": "2026-11-09T13:40:34.672Z",
   "averageRating": 4.9,
-  "totalReviews": 368,
+  "totalReviews": 369,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqmfxbgOgIImASSacFmf0FT4X69ScNdMioN8C-OofT2k7UOqNH1El92_pckSf8BmmqcwVF--Hw",
+      "rating": 5,
+      "feedbackText": "Sehr gute Werkstatt. Man merkt, dass die Leute hier Ahnung haben. Die Preise sind auch deutlich fairer als bei einer Vertragswerkstatt 👍",
+      "origText": "",
+      "name": "Andreas Falkenberg",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWSa0807Z0ciKQUd0MdDEDwRfDCz9KuTk6qB69ZfYz3-hCGoik=s120-c-rp-mo-br100",
+      "date": "2026-11-09T00:14:50.393099Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqnsEp9M6GtMDMhU8GCLj5Fnd-OKOGERjOoYqF4L_ssjHpHgX11on8r7fy_2YqGZLpifvPPsUQ",
       "rating": 5,
@@ -1281,7 +1293,7 @@
     {
       "id": "AbFvOqnISWCpAQFlMQXLePftWfMa_Xw5O-V3_o-aOEUs1ZRIHe4QRz9nIXydD5bR5R4vQfclxg6l",
       "rating": 5,
-      "feedbackText": "Exzellenter Service, alles lief bestens! Ich kann sie uneingeschränkt empfehlen!",
+      "feedbackText": "Exzellenter Service, alles wurde effizient erledigt!\nIch kann sie uneingeschränkt empfehlen!",
       "origText": "Отличный сервис , сделали все качественно !\nВсем советую !!!!",
       "name": "Denis Gusar",
       "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWSjQD-5fWfmkWaIDIQzewnJhDFtyalInj6NcGgQFmf6v3vibRh=s120-c-rp-mo-br100",
