@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-11-11T23:21:34.104Z",
+  "updatedAt": "2026-11-12T13:34:47.799Z",
   "averageRating": 4.9,
   "totalReviews": 370,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqmrvPMZm29IVUpsxar3tt9PFFtZ1uiaMWAeu7pTO9sacll8xvpOpOgzrcu_Dur9XvF6Tv2TYg",
+      "rating": 1,
+      "feedbackText": "Ich warte seit zwei Wochen auf die Rücksendung des mechatronischen Teils für das Getriebe. Das ist ein Witz! Schämen Sie sich! Mangelhafter Service.",
+      "origText": "",
+      "name": "Silviu Vulpe",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX2qAjh56Clgjv-kkREa7KMpP6OYQx4iumEmV3zp_csY7C30IjG=s120-c-rp-mo-ba12-br100",
+      "date": "2026-11-12T11:24:31.621288Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqmpg91F7w3aU7hnRPnEnNPx4V45zDxPxybOUn-N-BvEv12uOfenOcC_57ao2D_olRSIxZWUhQ",
       "rating": 5,
