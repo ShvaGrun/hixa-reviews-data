@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-11-13T12:54:09.737Z",
+  "updatedAt": "2026-11-13T22:24:59.112Z",
   "averageRating": 4.9,
-  "totalReviews": 370,
+  "totalReviews": 371,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqmt-5QGFWrgeqY7fd-_e5r73SO_PapWQY2M4MSLt7SAKzURa3MyYSf6KrfUw2hQsFa4Jgp9Rg",
+      "rating": 5,
+      "feedbackText": "Getriebeprobleme professionell gelöst. Man merkt sofort, dass die Jungs wissen, was sie tun. Schnelle Abwicklung, hat alles gepasst.",
+      "origText": "",
+      "name": "G Herrmann",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUZYrrr0HNyDtB6YJbMnSF8stHi4fAUk52UkXre9bFvj4F_ASw=s120-c-rp-mo-br100",
+      "date": "2026-11-13T13:47:51.865410Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqmrvPMZm29IVUpsxar3tt9PFFtZ1uiaMWAeu7pTO9sacll8xvpOpOgzrcu_Dur9XvF6Tv2TYg",
       "rating": 1,
