@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-11-15T21:30:17.302Z",
+  "updatedAt": "2026-11-16T13:25:13.366Z",
   "averageRating": 4.9,
-  "totalReviews": 371,
+  "totalReviews": 372,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqmE8s-L315ypdfZEgt9PwMgEAJ3mxy3Plvnv07NSEKceTjQapuAzYzYClt2q0H1pOe2b7K6AQ",
+      "rating": 5,
+      "feedbackText": "Das Team meiner Wahl, wenn es Probleme mit dem Auto gibt. Besser kann man es kaum machen.",
+      "origText": "",
+      "name": "Lukas Hoffmann",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWPTiDUxCthnfZ8ExynT_1NZtTZlTiE1mhLcwwRT_fZVlC7nB4=s120-c-rp-mo-br100",
+      "date": "2026-11-15T22:17:12.345132Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqmt-5QGFWrgeqY7fd-_e5r73SO_PapWQY2M4MSLt7SAKzURa3MyYSf6KrfUw2hQsFa4Jgp9Rg",
       "rating": 5,
