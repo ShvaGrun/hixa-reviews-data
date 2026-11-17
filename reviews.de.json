@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-11-17T00:41:16.744Z",
-  "averageRating": 4.8,
+  "updatedAt": "2026-11-17T14:10:45.699Z",
+  "averageRating": 4.9,
   "totalReviews": 373,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqkcy8c2XjV9TyX3d9lKvXLj8Lx0RPViiFss3dxXifeaqFolfU6HHakaRGxJFXkKVIRIZDpoTA",
+      "rating": 5,
+      "feedbackText": "Getriebeinstandsetzung meiner DQ250 top durchgeführt. Maks hat mich über jeden Schritt auf dem Laufenden gehalten. Nach der Überholung schaltet das Getriebe wieder butterweich.",
+      "origText": "",
+      "name": "Falko Randsdorf",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjViY8AUxOLCwUZJZjqvvUv3PNyRhs6Y0EbBm6bTeO8P0tSAtok=s120-c-rp-mo-br100",
+      "date": "2026-11-17T10:47:39.862434Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqmE8s-L315ypdfZEgt9PwMgEAJ3mxy3Plvnv07NSEKceTjQapuAzYzYClt2q0H1pOe2b7K6AQ",
       "rating": 5,
@@ -50,18 +62,6 @@
       "name": "Christian A",
       "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV15JFmzafpVgVB83rji3tZkkeCpzdwFK4LPLm--L_c6RPQaeA=s120-c-rp-mo-br100",
       "date": "2026-11-09T23:02:37.415693Z",
-      "replyText": "",
-      "replyDate": "",
-      "location": "Berlin"
-    },
-    {
-      "id": "AbFvOqmgM43jNM-5LVkmICLybh-Q8ZCn4qj4g8i3HtnrRS8PQL4MjfhbOatMJAIWJpeuM03aYOXkFw",
-      "rating": 1,
-      "feedbackText": "🚨 Vertrauen Sie NICHT den Google Maps-Bewertungen!\n\nSie löschen ständig 1-Stern-Bewertungen.\n\nWie auch andere berichtet haben, ist mir das gerade passiert, und ich kann es beweisen. Ich hoffe daher, dass meine Bewertung nicht ebenfalls gelöscht wird.",
-      "origText": "🚨 DO NOT TRUST THE GOOGLE MAPS REVIEW RATING.\nTHEY KEEP REMOVING 1-STAR REVIEWS.\n\nAs reported by others too, it just happened to mine, and I can prove it so I hope this review will not be removed as well.",
-      "name": "Jacopo Jacopo",
-      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLVs6f4w-gAK-xsiGDBmRLcjtfewXWAk7Lzsuqh_xNmMWVxuQ=s120-c-rp-mo-br100",
-      "date": "2026-11-09T12:40:41.643155Z",
       "replyText": "",
       "replyDate": "",
       "location": "Berlin"
