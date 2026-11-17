@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-16T13:25:13.366Z",
-  "averageRating": 4.9,
-  "totalReviews": 372,
+  "updatedAt": "2026-11-17T00:41:16.744Z",
+  "averageRating": 4.8,
+  "totalReviews": 373,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
@@ -50,6 +50,18 @@
       "name": "Christian A",
       "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV15JFmzafpVgVB83rji3tZkkeCpzdwFK4LPLm--L_c6RPQaeA=s120-c-rp-mo-br100",
       "date": "2026-11-09T23:02:37.415693Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
+    {
+      "id": "AbFvOqmgM43jNM-5LVkmICLybh-Q8ZCn4qj4g8i3HtnrRS8PQL4MjfhbOatMJAIWJpeuM03aYOXkFw",
+      "rating": 1,
+      "feedbackText": "🚨 Vertrauen Sie NICHT den Google Maps-Bewertungen!\n\nSie löschen ständig 1-Stern-Bewertungen.\n\nWie auch andere berichtet haben, ist mir das gerade passiert, und ich kann es beweisen. Ich hoffe daher, dass meine Bewertung nicht ebenfalls gelöscht wird.",
+      "origText": "🚨 DO NOT TRUST THE GOOGLE MAPS REVIEW RATING.\nTHEY KEEP REMOVING 1-STAR REVIEWS.\n\nAs reported by others too, it just happened to mine, and I can prove it so I hope this review will not be removed as well.",
+      "name": "Jacopo Jacopo",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLVs6f4w-gAK-xsiGDBmRLcjtfewXWAk7Lzsuqh_xNmMWVxuQ=s120-c-rp-mo-br100",
+      "date": "2026-11-09T12:40:41.643155Z",
       "replyText": "",
       "replyDate": "",
       "location": "Berlin"
