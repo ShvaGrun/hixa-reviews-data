@@ -1,11 +1,35 @@
 {
-  "updatedAt": "2026-11-18T13:42:44.485Z",
-  "averageRating": 4.9,
-  "totalReviews": 373,
+  "updatedAt": "2026-11-18T23:18:46.221Z",
+  "averageRating": 4.8,
+  "totalReviews": 375,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqmwR3e3W2DCLMUoJPA1ejbyfmZJsCREYhRgMT5CzDcWCYO3MzIWAmvENfklNnLT-zsCpRrzDg",
+      "rating": 5,
+      "feedbackText": "Einfach richtig gute Spezialisten für DSG in der Umgebung. Schnelle Diagnose, fairer Preis.",
+      "origText": "",
+      "name": "Wolfram Pechblende",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW1O3yIUqZzdyWg0a-ufAwGd0U4_2Ux6S7byVyyROw8UiBgGjg=s120-c-rp-mo-br100",
+      "date": "2026-11-18T18:06:15.996544Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
+    {
+      "id": "AbFvOqmsZVTTRAyEvWfXHMHHX-hcfr46CvGJlSnjycGBB6JG58W8S-zSWuTFK1KjFPt-XK9yIRyvxw",
+      "rating": 1,
+      "feedbackText": "Ich habe Hixa firma von Kleinanzeige gefunden.ich habe direkt angerufen und habe ich mit Frau Kseniia Kontakt gehabt. Ich habe meine Geschichte erklärt und  habe ich nächste tag meine defekt Mechatronik zum firma nach berlin eingepackt zugeschickt. Nach dem Diagnose sie hat mit mir Kontakt gehabt. Wegen defekt teile. Ich habe alles zugesagt und abends gleich Geld überwiesen. Ich warte seit 1 Woche meine Mechatronik noch nicht geschickt und immer gleich Worte das Paket ist abholbereit wegen Post nichts abgeholt.\nIch empfehle nichts diese Firma.\nIch bereue es sehr.",
+      "origText": "",
+      "name": "Fehmi Cakir",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKWfGYkGFHFzOu3e1IpSgmUellgxotab8d6EvS-QQu98piqAQ=s120-c-rp-mo-br100",
+      "date": "2026-11-18T17:37:59.519487Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqkcy8c2XjV9TyX3d9lKvXLj8Lx0RPViiFss3dxXifeaqFolfU6HHakaRGxJFXkKVIRIZDpoTA",
       "rating": 5,
