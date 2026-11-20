@@ -1,11 +1,35 @@
 {
-  "updatedAt": "2026-11-20T13:53:04.991Z",
-  "averageRating": 4.8,
+  "updatedAt": "2026-11-20T22:59:53.673Z",
+  "averageRating": 4.9,
   "totalReviews": 375,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqnEzBrcZJtZT4abqOUhBHcbS9ieNCMyaOEg2qcCKvVk1UNuUB1xYBjatH4lg2qezskT3muhDg",
+      "rating": 5,
+      "feedbackText": "Katerina hat alles getan, damit mein Getriebe noch vor dem Wochenende repariert werden konnte. Vielen Dank für den tollen Service🙏",
+      "origText": "",
+      "name": "Dietrich von Bohlen",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU06-dK3hWqNGwLHtTuWQ-U7xWu8tH7fHAL5_2JvYrTAlpLa7o=s120-c-rp-mo-br100",
+      "date": "2026-11-20T20:13:52.670395Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
+    {
+      "id": "AbFvOqkOTp_XbeNWvGa-ks7reuuFTwS0Afyh38g-oAFvL7RbAHy_E0mR5PvmTI6a17eFYAQ4Ak7b1A",
+      "rating": 5,
+      "feedbackText": "Super schneller Support bei Fragen! Tolle Werkstatt, hier wird Kundenservice noch großgeschrieben.",
+      "origText": "",
+      "name": "Xaver Huber",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVxPCLrNYgqPravnRBL0InXVaaMtPQwmdgLWuRw9OQYxD8OAHw=s120-c-rp-mo-br100",
+      "date": "2026-11-20T17:07:08.915734Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqmsZVTTRAyEvWfXHMHHX-hcfr46CvGJlSnjycGBB6JG58W8S-zSWuTFK1KjFPt-XK9yIRyvxw",
       "rating": 1,
@@ -2183,7 +2207,7 @@
       "rating": 5,
       "feedbackText": "Vielen Dank für den Service, ich empfehle ihn weiter.",
       "origText": "дякую за обслуговування, рекомендую",
-      "name": "Настя Морозова",
+      "name": "Anastasia Androsova",
       "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUpftnjAfpKwAcrAJic05v5Twy9mXoaqXmu-b9xJHTgeVvAHmP5=s120-c-rp-mo-br100",
       "date": "2023-07-29T09:28:46.913253Z",
       "replyText": "",
