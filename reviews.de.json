@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-11-20T22:59:53.673Z",
+  "updatedAt": "2026-11-21T13:16:56.353Z",
   "averageRating": 4.9,
-  "totalReviews": 375,
+  "totalReviews": 376,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqnWZiD52WG9R8Jg2vbxtAIrDS3Ozk1W4kOv2YzQHHUZDhfU4A1ZmX5aM8cVakwuUZTOTvf1ow",
+      "rating": 5,
+      "feedbackText": "die jungs haben mich vor dem urlaub noch schnell eingeschoben. das nenne ich kundenservice!",
+      "origText": "",
+      "name": "Constantin von Berenberg",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXVaRBM-TP6CQT_zTgrVb4WfhtXSsFUACWdtFWf6OdQwQcQDxo=s120-c-rp-mo-br100",
+      "date": "2026-11-21T02:05:47.823201Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqnEzBrcZJtZT4abqOUhBHcbS9ieNCMyaOEg2qcCKvVk1UNuUB1xYBjatH4lg2qezskT3muhDg",
       "rating": 5,
@@ -86,18 +98,6 @@
       "name": "G Herrmann",
       "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUZYrrr0HNyDtB6YJbMnSF8stHi4fAUk52UkXre9bFvj4F_ASw=s120-c-rp-mo-br100",
       "date": "2026-11-13T13:47:51.865410Z",
-      "replyText": "",
-      "replyDate": "",
-      "location": "Berlin"
-    },
-    {
-      "id": "AbFvOqmrvPMZm29IVUpsxar3tt9PFFtZ1uiaMWAeu7pTO9sacll8xvpOpOgzrcu_Dur9XvF6Tv2TYg",
-      "rating": 1,
-      "feedbackText": "Ich warte seit zwei Wochen auf die Rücksendung des mechatronischen Teils für das Getriebe. Das ist ein Witz! Schämen Sie sich! Mangelhafter Service.",
-      "origText": "",
-      "name": "Silviu Vulpe",
-      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX2qAjh56Clgjv-kkREa7KMpP6OYQx4iumEmV3zp_csY7C30IjG=s120-c-rp-mo-ba12-br100",
-      "date": "2026-11-12T11:24:31.621288Z",
       "replyText": "",
       "replyDate": "",
       "location": "Berlin"
@@ -943,18 +943,6 @@
       "location": "Berlin"
     },
     {
-      "id": "AbFvOqkjKTYMJQWpVH_uTRsOGPsXtmrVqACfxmB9qOrkqKNxx-A9fw-UuDQ-J5Jbm2521bf-yqSsyA",
-      "rating": 1,
-      "feedbackText": "ACHTUNG sehr schlechte Erfahrung und jedes Wort stimmt zu 100 Prozent!!!!!!(ich möchte meine Erfahrung mit Hixa teilen um andere zu schützen).\nDq200 Golf 7,insgesamt ca.1600-1800 bisher ausgegeben und 2. mal Mechatronik per Post eingeschickt, zurückbekommen, eingebaut und nach einer Woche wieder kaputt mit Ausfallzeiten von insgesamt 15 Wochen.( 2 mal beim Auslesen Druckspeicher Fehler, keinen Druck).\nImmer wird behauptet die anderen seien Schuld zb kfz Meister, die nicht richtig einbauen.\nKosten für Ein/Ausbau übernehmen die nicht. Sie meinte ich soll den Wagen zu Ihnen bringen, eine Distanz von ca 500 km.\nNun wollen sie  das ich die Mechatronik ein 3.mal per Post schicke, mache ich natürlich nicht, da wieder insgesamt ca. 400/500 Euro anfallen (Einbau/Ausbau etc plus Ausfallzeiten). Anna und Pavel sind die Ansprechpartner, die nie ans Tel. gehen (immer im Meeting).\nAls ich das 1.mal die Mechatronik geschickt hatte und anhand der Bewertungen auf Google (leider zu spät) gemerkt habe wie unseriös die Firma ist, habe ich Anna gebeten meine kaputte Mechatronik auf meine Kosten wieder zurückzuschicken, hat sie nicht gemacht und ist am Telefon laut geworden, sodass ich keine andere Wahl hatte.\nMeine Kfz Werkstatt kann das alles bezeugen.Die schlimmste Erfahrung bisher in meinem Leben.",
-      "origText": "",
-      "name": "arian dervishaj",
-      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW-nEaniglaK7hjTJxfFWLOtwk8cHs-wsMkiRxGa-TytnF5fgd0=s120-c-rp-mo-br100",
-      "date": "2025-05-16T12:29:35.734589Z",
-      "replyText": "",
-      "replyDate": "",
-      "location": "Berlin"
-    },
-    {
       "id": "AbFvOqn59teJ7DzdkXDbfWPeFIrT16fW3yIEDYadK6k6YjcCmAU0pXK1ynI9Z5jDOn9PDLw_JruWBw",
       "rating": 5,
       "feedbackText": "Service in Deutschland bedeutet deutsche Qualität, die Herren verstehen ihr Handwerk und sind sehr höflich. Ich empfehle sie.",
@@ -1644,7 +1632,7 @@
       "feedbackText": "Ich kann diesen Service wärmstens empfehlen. Das DSG wurde fachgerecht repariert, und die Techniker waren sehr kompetent und haben jeden Reparaturschritt erklärt.\nVielen Dank!",
       "origText": "I highly recommend this service. DSG was fixed well, with very qualified guys who explained every step of the repair.\nThanks guys!",
       "name": "Natalie Kohutyuk",
-      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUYFsH8TqBJ6IkwCxH5TplcNrgPvhID28tK3_xucNRcRs2NM7I=s120-c-rp-mo-br100",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUYFsH8TqBJ6IkwCxH5TplcNrgPvhID28tK3_xucNRcRs2NM7I=s120-c-rp-mo-ba12-br100",
       "date": "2023-12-27T21:08:07.929006Z",
       "replyText": "Danke, es freut uns immer, Ihnen zu helfen",
       "replyDate": "2025-02-11T14:22:43.706868Z",
