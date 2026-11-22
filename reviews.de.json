@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-11-21T22:04:36.091Z",
+  "updatedAt": "2026-11-22T13:08:04.897Z",
   "averageRating": 4.9,
-  "totalReviews": 376,
+  "totalReviews": 377,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqnBeMJ6Wq-wobloOfSptLy-t58k09_f9eEuWfzYb_XcEKoJQNCB0ymNm_CUaZMDLz08AfOP",
+      "rating": 5,
+      "feedbackText": "Schnelle Hilfe bei Problemen mit meiner DQ500 gesucht und hier direkt die richtige Werkstatt gefunden. Die Reparatur lief reibungslos und das Auto läuft wieder richtig gut.",
+      "origText": "",
+      "name": "Ronny Krause",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVnNaTo9tAxe3v2aE2gYphOQxMspGfXTV-hAbO4xkaKwe-NfzA=s120-c-rp-mo-br100",
+      "date": "2026-11-22T02:24:10.073329Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqnWZiD52WG9R8Jg2vbxtAIrDS3Ozk1W4kOv2YzQHHUZDhfU4A1ZmX5aM8cVakwuUZTOTvf1ow",
       "rating": 5,
@@ -3345,7 +3357,7 @@
     {
       "id": "AbFvOqni8VRy-Ux-rCZeQd6G45FJKW0X84frfxeIT7WjWOrJQiCWAhIU4OeHsXNgW4TYoFL8haYJ",
       "rating": 5,
-      "feedbackText": "Alles ist wunderbar, das Niveau ist auf dem Höhepunkt!",
+      "feedbackText": "Alles ist hervorragend, das Niveau ist auf dem Höhepunkt!",
       "origText": "Все дуже чудово, рівень на висоті!",
       "name": "Влад",
       "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX_kx6IqH3jJq2Haa-_aJKJRAHyUCTXcvOSresIMvyfCuGcPeM9=s120-c-rp-mo-br100",
