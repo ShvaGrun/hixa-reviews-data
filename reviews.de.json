@@ -1,11 +1,47 @@
 {
-  "updatedAt": "2026-11-24T03:11:49.295Z",
-  "averageRating": 4.9,
-  "totalReviews": 376,
+  "updatedAt": "2026-11-24T15:35:58.616Z",
+  "averageRating": 4.8,
+  "totalReviews": 380,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqnh-qkplEnmga9sB6JVjk7UMVgKKccc-eyl6pgfUlod6ey1F0BCuC-MNtxgibnWzQ77kqMD",
+      "rating": 1,
+      "feedbackText": "Bin gar nicht zu frieden viel Zuviel Zeit verloren trotzdem nicht repariert",
+      "origText": "",
+      "name": "Ahmad Daqqaq",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXyNEI9ajOZYHEZzB62ecA0ZxzFRzolYjvfiLLr42uotdUOOhlz=s120-c-rp-mo-br100",
+      "date": "2026-11-24T14:04:03.086692Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
+    {
+      "id": "AbFvOqmD9mW7uxLOlt_DxqR94jcg6wxM_d_TzdWPPnZ8G_08EAwOr79besshUy-amw2eMXY2IBxN",
+      "rating": 1,
+      "feedbackText": "Leider bin ich mit dieser Firma äußerst unzufrieden.\n\nIch habe bei dieser Firma eine Mechatronik gekauft. Mir wurde versichert, dass diese überholt und fachgerecht instand gesetzt wurde.\n\nDa die Mechatronik nach dem Einbau nicht funktionierte, brachte ich mein komplettes Fahrzeug zu dieser Firma zurück. Es wurde ausdrücklich vereinbart, dass die Mechatronik ausgetauscht wird.\n\nNach mehr als drei Wochen ließ ich das Fahrzeug bei VW überprüfen. Dabei stellte sich heraus, dass die Mechatronik offenbar nicht ausgetauscht worden war. Stattdessen waren lediglich Farbmarkierungen an den Schrauben vorhanden.\n\nInsgesamt sind mir dadurch Kosten und Verluste von über 1.700 Euro entstanden. Letztendlich stellte sich heraus, dass das Problem mit der Hydraulikpumpe bzw. Druckpumpe der Mechatronik zusammenhängt.\n\nIch habe viel Zeit und Geld verloren und bin von dieser Vorgehensweise sehr enttäuscht.\n\nAufgrund dieser Erfahrung kann ich diese Firma leider nicht weiterempfehlen.",
+      "origText": "",
+      "name": "Anas Almaarrti",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWo2-BBU7vafft_4918r4zfzJ4DtRXcjUJHt9RZRUDXiejCWSaG=s120-c-rp-mo-br100",
+      "date": "2026-11-24T13:46:51.217279Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
+    {
+      "id": "AbFvOqlgZJEPI3s1E1Z7KXCSQFB2s8H1D3zBhvYwDfwxxWh_LvVPyvWoyg6VIqkQrMWiklzv3B5o",
+      "rating": 5,
+      "feedbackText": "Sehr angenehmer Kontakt. Hier wird einem nicht das Blaue vom Himmel versprochen, sondern einfach sauber gearbeitet.",
+      "origText": "",
+      "name": "Holger Steinmetz",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU7g2aVV26Mv5BxHm7B3FUSscAbvlOeTd98eWw0h0-hhLmmoTE=s120-c-rp-mo-br100",
+      "date": "2026-11-24T10:44:29.166472Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqnBeMJ6Wq-wobloOfSptLy-t58k09_f9eEuWfzYb_XcEKoJQNCB0ymNm_CUaZMDLz08AfOP",
       "rating": 5,
