@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-11-24T15:35:58.616Z",
+  "updatedAt": "2026-11-25T01:17:19.798Z",
   "averageRating": 4.8,
-  "totalReviews": 380,
+  "totalReviews": 381,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqnk0tAosPy5rJ7yNOMcNz6U7GqlCT7DZ_QGhvGERRYweagFFM1jfQ-PEYQFQggAXHtw2dLw0A",
+      "rating": 1,
+      "feedbackText": "Leider kann ich dieses Unternehmen nicht empfehlen. Eine sehr enttäuschende Erfahrung! Trotz der Zusicherung, dass die Mechatronik fachgerecht überholt wurde und in gutem Zustand sei, kam es nach dem Einbau weiterhin zu Problemen.\n\nSo sollte man nicht mit Kunden umgehen. Ich würde mir wünschen, dass das Unternehmen mehr Verantwortung für seine Arbeit übernimmt und seine Kunden nicht mit solchen Problemen zurücklässt.",
+      "origText": "",
+      "name": "lolo Alasaad",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLMnjOy9ZWoW1Lm74xhIXPA8UJdy8f7ZnS2gxBIWsTSKgU857k=s120-c-rp-mo-br100",
+      "date": "2026-11-24T19:20:52.993113Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqnh-qkplEnmga9sB6JVjk7UMVgKKccc-eyl6pgfUlod6ey1F0BCuC-MNtxgibnWzQ77kqMD",
       "rating": 1,
