@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-11-25T15:22:38.061Z",
+  "updatedAt": "2026-11-26T00:51:34.409Z",
   "averageRating": 4.8,
-  "totalReviews": 380,
+  "totalReviews": 381,
   "mapsUri": "https://maps.google.com/maps?cid=11109086779721614647",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "placeId": "ChIJ8Tdt9SlNqEcRN4VLVJFnK5o",
   "items": [
+    {
+      "id": "AbFvOqmA2rDzuisdEd9_AJ5a9xzIdf3hf8HOmXE9l33ODLvCAWNVfqmHTQ271Dea5SCy31tWO2kjHA",
+      "rating": 5,
+      "feedbackText": "Ich bin wirklich zufrieden mit dem schnellen Support und der unkomplizierten Organisation vor Ort.",
+      "origText": "",
+      "name": "Heinrich Stifter",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUVWM6u0qcoFG4UR8cnbu975k3oxcxOU0RwG9hASMJKB1oXhQQ=s120-c-rp-mo-br100",
+      "date": "2026-11-25T21:55:47.487932Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Berlin"
+    },
     {
       "id": "AbFvOqnk0tAosPy5rJ7yNOMcNz6U7GqlCT7DZ_QGhvGERRYweagFFM1jfQ-PEYQFQggAXHtw2dLw0A",
       "rating": 1,

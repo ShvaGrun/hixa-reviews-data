@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-11-25T15:22:44.559Z",
+  "updatedAt": "2026-11-26T00:51:38.874Z",
   "averageRating": 4.2,
   "totalReviews": 5,
   "mapsUri": "https://maps.google.com/maps?cid=3338710374550109669",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJWRuGZ8_3mkcR5X34emV7VS4",
   "placeId": "ChIJWRuGZ8_3mkcR5X34emV7VS4",
   "items": [
+    {
+      "id": "AbFvOqkDqPqI45qeIiZ1_P--EvjYW8HYERN4jJKMqC5DBhieLJrN_M-Kd5gouRJny0NI3NUqM2YYHg",
+      "rating": 1,
+      "feedbackText": "Dort gibt es aktuell keine Werkstatt wie auf den Bildern gezeigt, nur ein Hotel. Keinerlei Hinweise.",
+      "origText": "",
+      "name": "Martin Martinelli",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUuCydFSNZIxqlX1iBLWuaX6rbwgUmqeE8Llu0QAd02VJLGuXY=s120-c-rp-mo-ba12-br100",
+      "date": "2026-11-17T12:18:42.536754Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Konstanz"
+    },
     {
       "id": "AbFvOqlEwqY5MOe9fBILbC7NfeHnVI4tDT-mJEbJ7gYdfg5UDc__USjne6d0giJQqtfCBtNrsqrm",
       "rating": 5,
