@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-11-26T00:51:35.347Z",
+  "updatedAt": "2026-11-26T14:48:11.933Z",
   "averageRating": 4.2,
   "totalReviews": 29,
   "mapsUri": "https://maps.google.com/maps?cid=8233257782019366499",
   "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJr9bQWQAZuUcRYx58wVRoQnI",
   "placeId": "ChIJr9bQWQAZuUcRYx58wVRoQnI",
   "items": [
+    {
+      "id": "AbFvOqkC1OLaJH5kbQi4ZiwRCrk3EQpd6ls7VxZV84xRyBlme0MNOhuFgtD3_eMQsE6MUrdA2JHyYQ",
+      "rating": 5,
+      "feedbackText": "Top Bedienung",
+      "origText": "",
+      "name": "HJ Strahl",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL3sHJOBV-gDpTnWZyC6cL7mxFQ3mnwhqcPV32W60Txr--P5g=s120-c-rp-mo-ba12-br100",
+      "date": "2025-04-06T06:30:59.718341Z",
+      "replyText": "",
+      "replyDate": "",
+      "location": "Dortmund"
+    },
     {
       "id": "AbFvOqnKpeANDn6Az_Bhm7CEK5teFh08lq6AkKiyHWGm_J8pO9ytMZCuwxyok_DKeZmAIK3hd2EVRg",
       "rating": 5,
@@ -182,18 +194,6 @@
       "name": "Ulrich Sümper",
       "photoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVwHT0mR_qDTYkHQQmwIIh4UyJ69V3v0b4XPXnkwIxSoLR7OotF=s120-c-rp-mo-ba12-br100",
       "date": "2025-05-13T19:59:11.477477Z",
-      "replyText": "",
-      "replyDate": "",
-      "location": "Dortmund"
-    },
-    {
-      "id": "AbFvOqkC1OLaJH5kbQi4ZiwRCrk3EQpd6ls7VxZV84xRyBlme0MNOhuFgtD3_eMQsE6MUrdA2JHyYQ",
-      "rating": 5,
-      "feedbackText": "Top Bedienung",
-      "origText": "",
-      "name": "HJ Strahl",
-      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL3sHJOBV-gDpTnWZyC6cL7mxFQ3mnwhqcPV32W60Txr--P5g=s120-c-rp-mo-ba12-br100",
-      "date": "2025-04-06T06:30:59.718341Z",
       "replyText": "",
       "replyDate": "",
       "location": "Dortmund"
